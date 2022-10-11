@@ -346,11 +346,13 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**FitTrackee**](https://github.com/SamR1/FitTrackee) ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. (Still considering AP support, see [issue](https://github.com/SamR1/FitTrackee/issues/16)) `AGPL-3.0, Python`
 
+* [**gemifedi**](https://git.sr.ht/~boringcactus/gemifedi) ([site](https://sr.ht/~boringcactus/gemifedi/)): A gemini frontend to the fediverse (specifically, Mastodon and Pleroma instances). `AGPL-3.0, Rust`
+
 * :heavy_check_mark: [**hvxahv-platform**](https://github.com/disism/hvxahv) ([site](https://dev.halfmemories.com): A multifunctional decentralized social network implementation. `MIT, Go`
 
 * :heavy_check_mark: [**Immers Space**](https://github.com/immers-space/immers) ([Fedi account](https://gup.pe/u/immersspace)): The decent(ralized) metaverse. `AGPL-3.0, JavaScript`
 
-* [**Inbox**](https://github.com/WhyINeedToFillUsername/inbox) ([site](https://whyineedtofillusername.github.io/inbox/about)): An application built for a diploma thesis to showcase work with Linked Data Notifications, Activity Streams and ActivityPub, using Solid pod as data provider. (See also [Solid forum discussion](https://forum.solidproject.org/t/inbox-new-messaging-application/4093). No license, see [issue](https://github.com/WhyINeedToFillUsername/inbox/issues/2)) `Unknown, TypeScript`
+* [**Inbox**](https://github.com/WhyINeedToFillUsername/inbox) ([site](https://whyineedtofillusername.github.io/inbox/about)): An application built for a diploma thesis to showcase work with Linked Data Notifications, Activity Streams and ActivityPub, using Solid pod as data provider. (See also [Solid forum discussion](https://forum.solidproject.org/t/inbox-new-messaging-application/4093). No license, see [issue](https://github.com/WhyINeedToFillUsername/inbox/issues/2)) `Unknown, TypeScript
 
 * [**Life Server**](https://github.com/interop-alliance/life-server) ([site](https://permanent.cloud/apps/life-server)): A decentralized personal data framework inspired by MIT's Solid Project (AP support planned, see [Roadmap](https://github.com/interop-alliance/life-server/blob/main/README.md#roadmap)), `MIT, JavaScript`
 

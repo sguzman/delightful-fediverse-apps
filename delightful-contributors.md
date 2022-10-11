@@ -10,3 +10,4 @@ These fine people brought us delight by adding their gems of freedom to the deli
 - [André Jaenisch](https://jaenis.ch/) (codeberg: [@Ryuno-Ki](https://codeberg.org/Ryuno-Ki), fediverse: [@RyunoKi@layer8.space](https://layer8.space/users/RyunoKi))
 - [Kainoa Kanter](https://t1c.dev) (codeberg: [@ThatOneCalculator](https://codeberg.org/thatonecalculator), fediverse: [@thatonecalculator@stop.voringme](https://stop.voring.me/@thatonecalculator))
 - [Francis Dinh](https://radionoise.ca/) (codeberg: [@normandy](https://codeberg.org/normandy), fediverse: [@norm@misskey.biribiri.dev](https://misskey.biribiri.dev/@norm))
+- [Fauzi Ramadaniza](https://fz1.space) (codeberg: [@faustzero1](https://codeberg.org/faustzero1), fediverse: [@drfaustz@mstdn.starnix.network](https://mstdn.starnix.network/@drfaustz))

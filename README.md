@@ -184,13 +184,15 @@ Emoji's for each entry provide additional information on project status:
 
 #### Link-sharing, Forum, and Group Apps
 
+* :heavy_check_mark: [**brutalinks**](https://github.com/mariusor/go-littr) ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
+
 * [**Flarum**](https://github.com/squeevee/flarum-ext-feddle): Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
+
+* :heavy_check_mark: [**Kbin**](https://github.com/ernestwisniewski/kbin) ([site](https://kbin.pub)) - Link aggregator and microblogging platform for Fediverse `AGPL-3.0, PHP`
 
 * :heavy_check_mark: [**Lemmy**](https://github.com/dessalines/lemmy): Link aggregator, by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378) `AGPL-3.0, Rust`
 
 * [**Lobste.rs**](https://github.com/lobsters/lobsters/issues/499): Existing Reddit replacement adding AP support, AP issue still open
-
-* :heavy_check_mark: [**brutalinks**](https://github.com/mariusor/go-littr) ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
 * :heavy_check_mark: [**lotide**](https://git.sr.ht/~vpzom/lotide): A federated forum / link aggregator. `AGPL-3.0, Rust`
 

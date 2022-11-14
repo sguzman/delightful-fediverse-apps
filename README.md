@@ -120,6 +120,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Swanye**](https://codeberg.org/WammKD/Swanye) ([Fedi account](https://fosstodon.org/@Swanye)): A tumblelog in the style of Tumblr. `AGPL-3.0, Elixir`
 
+* :heavy_check_mark: [**Takahe**](https://github.com/andrewgodwin/takahe) ([Fedi account](https://fedi.aeracode.org/@andrew)): A very experimental Fediverse server for microblogging `BSD-3-clause, Python`
+
 * :tada: :heavy_check_mark: [**Tavern**](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale) ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `MIT, Go`
 
 * :heavy_check_mark: [**tranquility**](https://github.com/aumetra/tranquility)**: Small ActivityPub server written in Rust. `MIT, Rust`

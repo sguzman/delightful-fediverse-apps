@@ -112,6 +112,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Smithereen**](https://github.com/grishka/Smithereen): VKontakte-like social network, with friends, walls, photo albums and groups `Unlicense, Java`
 
+* :tada: [**snac**](https://codeberg.org/grunfink/snac2) ([Fedi account](https://comam.es/snac/grunfink)): A simple, minimalistic ActivityPub instance with minimal dependencies, multiuser, no database nor cookies needed, totally JavaScript-free `MIT, C`
+
 * :tada: :heavy_check_mark: [**Socialhome**](https://gitlab.com/jaywink/socialhome) ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
 * :heavy_check_mark: [**Spritely**](https://gitlab.com/spritely) ([site](https://spritely.institute), [Fedi account](https://octodon.social/@spritelyproject)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`

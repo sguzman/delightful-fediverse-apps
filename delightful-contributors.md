@@ -8,5 +8,6 @@ These fine people brought us delight by adding their gems of freedom to the deli
 
 - [Arnold Schrijver](https://community.humanetech.com/u/aschrijver/summary) (codeberg: [@circlebuilder](https://codeberg.org/circlebuilder), fediverse: [@humanetech@mastodon.social](https://mastodon.social/@humanetech))
 - [André Jaenisch](https://jaenis.ch/) (codeberg: [@Ryuno-Ki](https://codeberg.org/Ryuno-Ki), fediverse: [@RyunoKi@layer8.space](https://layer8.space/users/RyunoKi))
+- Danyl Strype (codeberg: [@strypey](https://codeberg.org/strypey/), fediverse: [@strypey@mastodon.nzoss.nz](https://mastodon.nzoss.nz/@strypey/))
 - [Kainoa Kanter](https://t1c.dev) (codeberg: [@ThatOneCalculator](https://codeberg.org/thatonecalculator), fediverse: [@thatonecalculator@stop.voringme](https://stop.voring.me/@thatonecalculator))
 - [Francis Dinh](https://radionoise.ca/) (codeberg: [@normandy](https://codeberg.org/normandy), fediverse: [@norm@misskey.biribiri.dev](https://misskey.biribiri.dev/@norm))

@@ -1,6 +1,6 @@
 # delightful fediverse apps  [![delightful](https://codeberg.org/teaserbot-labs/delightful/media/branch/main/assets/delightful-badge.png)](https://codeberg.org/teaserbot-labs/delightful)
 
-A curated list of applications for the Fediverse that are based on the ActivityPub protocol and related standards.
+A curated list of server applications with support for the ActivityPub protocol (Fediverse network) and related standards.
 
 ## Contents
 

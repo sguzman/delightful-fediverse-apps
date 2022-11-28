@@ -278,6 +278,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**bopwiki**](https://codeberg.org/Valenoern/bopwiki) ([Fedi account](https://floss.social/@Valenoern)): An experimental 'microwiki implementation' / 'mini CMS' with ActivityPub support. `GPL-3.0, Common Lisp`
 
+* [**Chatter Net**](https://github.com/chatternet/chatternet-server-http): Chatter Net is a modern decentralized semantic web built atop self-sovereign identity. `MIT, Rust`
+
 * :heavy_check_mark: [**CPub**](https://gitlab.com/openengiadina/cpub): a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
 * :heavy_check_mark: [**Inventaire**](https://github.com/inventaire/inventaire) ([site](https://inventaire.io/welcome), [Fedi account](https://mamot.fr/@inventaire)): A libre collaborative resource mapper powered by open-knowledge, starting with books. (Considers AP integration, see [Github issue](https://github.com/inventaire/inventaire/issues/187)) `AGPL-3.0, JavaScript`

@@ -336,6 +336,8 @@ Emoji's for each entry provide additional information on project status:
 
 #### Extensions
 
+* [**AP-Groups**](https://github.com/michaelcpuckett/ap-groups) ([site](https://chirp.social/), [Fedi account](https://a11y.social/@mpuckett)): Group actors as bot/relay. `MIT, TypeScript`
+
 * :heavy_check_mark: [**Fediplan**](https://framagit.org/tom79/fediplan) ([site](https://fedilab.app/page/fediplan/), [Fedi account](https://toot.fedilab.app/@apps)): A way to safely schedule messages with Mastodon and Pleroma. `GPL-3.0, PHP`
 
 * :tada: :heavy_check_mark: [**Group actor**](https://git.ondrovo.com/MightyPork/group-actor) ([Fedi account](https://piggo.space/users/piggo)): Groups work with any software that implements Mastodon client API; has moderation, admin announcements, [test server](https://piggo.space/hob) `MIT, Rust`

@@ -112,7 +112,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Smithereen**](https://github.com/grishka/Smithereen): VKontakte-like social network, with friends, walls, photo albums and groups `Unlicense, Java`
 
-* :tada: [**snac**](https://codeberg.org/grunfink/snac2) ([Fedi account](https://comam.es/snac/grunfink)): A simple, minimalistic ActivityPub instance with minimal dependencies, multiuser, no database nor cookies needed, totally JavaScript-free `MIT, C`
+* :tada: :heavy_check_mark: [**snac**](https://codeberg.org/grunfink/snac2) ([Fedi account](https://comam.es/snac/grunfink)): A simple, minimalistic ActivityPub instance with minimal dependencies, multiuser, no database nor cookies needed, totally JavaScript-free `MIT, C`
 
 * :tada: :heavy_check_mark: [**Socialhome**](https://gitlab.com/jaywink/socialhome) ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
@@ -336,7 +336,9 @@ Emoji's for each entry provide additional information on project status:
 
 #### Extensions
 
-* [**AP-Groups**](https://github.com/michaelcpuckett/ap-groups) ([site](https://chirp.social/), [Fedi account](https://a11y.social/@mpuckett)): Group actors as bot/relay. `MIT, TypeScript`
+* :heavy_check_mark: [**apevents**](https://github.com/ngerakines/apevents) ([Fedi account](https://thegem.city/@nick)) - Event management system that allows event creation and coordination across Fediverse `MIT, Rust`
+
+* :heavy_check_mark: [**AP-Groups**](https://github.com/michaelcpuckett/ap-groups) ([site](https://chirp.social/), [Fedi account](https://a11y.social/@mpuckett)): Group actors as bot/relay. `MIT, TypeScript`
 
 * :heavy_check_mark: [**Fediplan**](https://framagit.org/tom79/fediplan) ([site](https://fedilab.app/page/fediplan/), [Fedi account](https://toot.fedilab.app/@apps)): A way to safely schedule messages with Mastodon and Pleroma. `GPL-3.0, PHP`
 

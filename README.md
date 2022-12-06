@@ -146,6 +146,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Pylodon**](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon)
 
+* :ghost: [**ShaarliGo**](https://code.mro.name/mro/ShaarliGo): Self-reliantly posting on the #Fediverse with painless hosting and security in mind. `GPL-3.0, Go`
+
 * :ghost: [**Smilodon**](https://gitlab.com/tuxcrafting/smilodon) (server by Tuxcraft) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer." Sminos appears to have never got beyond the initial commits
 
 * :ghost: [**Technopolis**](https://github.com/technopolis-microblog) ([site](https://technopolis.app/), [Fedi account](https://norimono.moe/@silverscat_3)): A globally interconnected micro-blogging platform inspired by Misskey - not updated since December 2020 `AGPL-3.0, Rust`

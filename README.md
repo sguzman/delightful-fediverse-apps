@@ -94,6 +94,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Osada**](https://codeberg.org/zot/osada) - a full featured social network application. Old [repo](https://framagit.org/zot/osada) abandoned by the developer in March 2019; recently moved to new repo
 
+* [**Pinetta**](https://codeberg.org/pinetta/pinetta) - a decentralized, federated social pinboard in the style of Pinterest. In development. `AGPL-3.0, Python`
+
 * :tada: :heavy_check_mark: [**Pleroma**](https://git.pleroma.social/pleroma) ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
 * :heavy_check_mark: [**pubgate**](https://github.com/autogestion/pubgate):  Lightweight ActivityPub CMS. Implements both client-to-server (C2S) and server-to-server(S2S) APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub. `BSD-3-clause, Python`

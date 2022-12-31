@@ -136,17 +136,17 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Kitsune**](https://github.com/valerauko/kitsune): early alpha; no commits since November 2018; homepage down
 
-* :ghost: [**Mistpark 2020**](https://codeberg.org/zot-archive/misty) aka 'misty' - A webserver app that supports AP and Zot protocols, fork of Zap, (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
+* :ghost: [**Mistpark 2020**](https://codeberg.org/zot-archive/misty) aka 'misty' - A webserver app that supports AP and Zot protocols, fork of Zap. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**MrBotchi**](https://github.com/mrbotchi-team/mrbotchi) ([Fedi account](https://norimono.moe/@silverscat_3)): A federated microblogging platform for single-user - not updated since June 2020 `AGPL-3.0, Go`
 
-* :ghost: [**Osada**](https://codeberg.org/zot-archive/osada) - A full featured social network application. (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
+* :ghost: [**Osada**](https://codeberg.org/zot-archive/osada) - A full featured social network application. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**Pylodon**](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon)
 
-* :ghost: [**Redmatrix 2020**](https://codeberg.org/zot-archive/redmatrix): A fediverse server. (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP` 
+* :ghost: [**Redmatrix 2020**](https://codeberg.org/zot-archive/redmatrix): A fediverse server. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP` 
 
-* :ghost: [**Roadhouse**](https://codeberg.org/zot-archive/roadhouse): Next gen Fediverse server. (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
+* :ghost: [**Roadhouse**](https://codeberg.org/zot-archive/roadhouse): Next gen Fediverse server. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**ShaarliGo**](https://code.mro.name/mro/ShaarliGo): Self-reliantly posting on the #Fediverse with painless hosting and security in mind. `GPL-3.0, Go`
 
@@ -156,7 +156,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**un chapeau**](https://gitlab.com/marnanel/un_chapeau/-/issues/17): Server for the Mastodon protocol, implemented in Django. Latest commit - May 2019. `AGPL-3.0, Python`
 
-* :ghost: [**Zap**](https://codeberg.org/zot-archive/zap): A webserver app that supports AP and Zot protocols (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
+* :ghost: [**Zap**](https://codeberg.org/zot-archive/zap): A webserver app that supports AP and Zot protocols (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 #### Blog, Publishing, and Reading Apps
 

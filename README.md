@@ -90,8 +90,6 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
 
-* :heavy_check_mark: [**Osada**](https://codeberg.org/zot/osada) - a full featured social network application. Old [repo](https://framagit.org/zot/osada) abandoned by the developer in March 2019; recently moved to new repo
-
 * [**Pinetta**](https://codeberg.org/pinetta/pinetta) - a decentralized, federated social pinboard in the style of Pinterest. In development. `AGPL-3.0, Python`
 
 * :tada: :heavy_check_mark: [**Pleroma**](https://git.pleroma.social/pleroma) ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
@@ -143,6 +141,8 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**Mistpark 2020**](https://codeberg.org/zot-archive/misty) aka 'misty' - A webserver app that supports AP and Zot protocols, fork of Zap, (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**MrBotchi**](https://github.com/mrbotchi-team/mrbotchi) ([Fedi account](https://norimono.moe/@silverscat_3)): A federated microblogging platform for single-user - not updated since June 2020 `AGPL-3.0, Go`
+
+* :ghost: [**Osada**](https://codeberg.org/zot-archive/osada) - A full featured social network application. (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**Pylodon**](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon)
 

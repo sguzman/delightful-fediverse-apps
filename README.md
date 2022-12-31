@@ -98,8 +98,6 @@ Emoji's for each entry provide additional information on project status:
 
 * [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): still considers adding ActivityPub
 
-* :tada: :heavy_check_mark: [**Roadhouse**](https://codeberg.org/zot/roadhouse)  ([site](https://zotlabs.com/roadhouse), [Fedi account](https://macgirvin.com/channel/mike)): Next gen Fediverse server. `CC0-like, PHP`
-
 * :heavy_check_mark: [**Rustodon**](https://github.com/rustodon/rustodon): Mastodon-compatible server `AGPL-3.0, Rust`
 
 * [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks.
@@ -145,6 +143,8 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**Osada**](https://codeberg.org/zot-archive/osada) - A full featured social network application. (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**Pylodon**](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon)
+
+* :ghost: [**Roadhouse**](https://codeberg.org/zot-archive/roadhouse): Next gen Fediverse server. (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**ShaarliGo**](https://code.mro.name/mro/ShaarliGo): Self-reliantly posting on the #Fediverse with painless hosting and security in mind. `GPL-3.0, Go`
 

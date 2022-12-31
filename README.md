@@ -144,6 +144,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Pylodon**](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon)
 
+* :ghost: [**Redmatrix 2020**](https://codeberg.org/zot-archive/redmatrix): A fediverse server. (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP` 
+
 * :ghost: [**Roadhouse**](https://codeberg.org/zot-archive/roadhouse): Next gen Fediverse server. (Archived, see [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**ShaarliGo**](https://code.mro.name/mro/ShaarliGo): Self-reliantly posting on the #Fediverse with painless hosting and security in mind. `GPL-3.0, Go`

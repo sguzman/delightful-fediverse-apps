@@ -31,7 +31,7 @@ Emoji's for each entry provide additional information on project status:
 
 #### Social networks, Microblog Apps
 
-* :heavy_check_mark: [**Aardwolf**](https://github.com/Aardwolf-Social/aardwolf) ([site](https://aardwolf.social)): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
+* :heavy_check_mark: [**Aardwolf**](https://github.com/Aardwolf-Social/aardwolf): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
 
 * :tada: :heavy_check_mark: [**Akkoma**](https://akkoma.dev/AkkomaGang/akkoma) ([site](https://akkoma.social/), [Fedi account](https://ihatebeinga.live/users/akkoma)): A community-driven fork of Pleroma with new features such as support for Misskey-flavored Markdown. `AGPL-3.0, Elixir`
 

@@ -126,8 +126,6 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Tavern**](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale) ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `MIT, Go`
 
-* :heavy_check_mark: [**tranquility**](https://github.com/aumetra/tranquility)**: Small ActivityPub server written in Rust. `MIT, Rust`
-
 * [**Vagabond**](https://github.com/CameronWhiteCS/Vagabond) ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
 * :ghost: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, JavaScript`
@@ -155,6 +153,8 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**Smilodon**](https://gitlab.com/tuxcrafting/smilodon) (server by Tuxcraft) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer." Sminos appears to have never got beyond the initial commits
 
 * :ghost: [**Technopolis**](https://github.com/technopolis-microblog) ([site](https://technopolis.app/), [Fedi account](https://norimono.moe/@silverscat_3)): A globally interconnected micro-blogging platform inspired by Misskey - not updated since December 2020 `AGPL-3.0, Rust`
+
+* :ghost: [**tranquility**](https://github.com/aumetra/tranquility): Small ActivityPub server written in Rust. (Archived, see [issue](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/32)) `MIT, Rust`
 
 * :ghost: [**un chapeau**](https://gitlab.com/marnanel/un_chapeau/-/issues/17): Server for the Mastodon protocol, implemented in Django. Latest commit - May 2019. `AGPL-3.0, Python`
 

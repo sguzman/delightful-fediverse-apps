@@ -108,6 +108,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Seppo**](https://code.mro.name/mro/seppo) ([site](https://seppo.app/en/), [Fedi account](https://digitalcourage.social/@mro)): A server-side, single-user, Fediverse-integrated microblog engine. Creating static assets published by webserver. (Mirror [at Codeberg](https://codeberg.org/mro/seppo/)) `GPL-3.0, OCaml`
 
+* [**Shuttlecraft**](https://github.com/benbrown/shuttlecraft) ([site](https://shuttlecraft.net/), [Fedi account](https://hackers.town/@benbrown)): A single user ActivityPub server to interact with the Fediverse and other indie web protocols like RSS. `MIT, Javascript`
+
 * [**Smalltown**](https://github.com/chandrn7/smalltown): A fork of Mastodon designed for civic communities looking to run their own social networks. `AGPL-3.0, Ruby`
 
 * :tada: :heavy_check_mark: [**Smithereen**](https://github.com/grishka/Smithereen): VKontakte-like social network, with friends, walls, photo albums and groups `Unlicense, Java`

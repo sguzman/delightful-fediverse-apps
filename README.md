@@ -70,6 +70,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Kibou**](https://codeberg.org/charlag/kibou): Lightweight social networking server that implements Mastodon's REST API. `AGPL-3.0, Rust`
 
+* [**Kitsune**](https://github.com/valerauko/kitsune): An ActivityPub-speaking microblogging service. `AGPL-3.0, Clojure`
+
 * :tada: :heavy_check_mark: [**Ktistec**](https://github.com/toddsundsted/ktistec) ([Fedi account](https://mastodon.social/@toddsundsted), [site](https://epiktistes.com/@toddsundsted/)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
 
 * :tada: :heavy_check_mark: [**Kroeg**](https://puckipedia.com/kroeg) ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `Unknown , Rust` 
@@ -133,8 +135,6 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**GangGo**](https://github.com/ganggo/ganggo/tree/develop)  - Developer has suspended development for the foreseeable future
 
 * :ghost: [**Jejune**](https://github.com/kaniini/jejune) - A work-in-progress ActivityPub server designed to use constructions which provide functional security and resilience `ISC license, Python`
-
-* :ghost: [**Kitsune**](https://github.com/valerauko/kitsune): early alpha; no commits since November 2018; homepage down
 
 * :ghost: [**Mistpark 2020**](https://codeberg.org/zot-archive/misty) aka 'misty' - A webserver app that supports AP and Zot protocols, fork of Zap. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 

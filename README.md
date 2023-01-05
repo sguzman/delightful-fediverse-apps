@@ -98,7 +98,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Pleroma**](https://git.pleroma.social/pleroma) ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
-* [pub](https://github.com/davecheney/pub) ([Fedi account](https://cheney.net/@dfc)): A tiny ActivityPub host intended for a single actor, that implements Mastodon API for use with various clients. `BSD3-Clause, Go`
+* [**pub**](https://github.com/davecheney/pub) ([Fedi account](https://cheney.net/@dfc)): A tiny ActivityPub host intended for a single actor, that implements Mastodon API for use with various clients. `BSD3-Clause, Go`
 
 * :heavy_check_mark: [**pubgate**](https://github.com/autogestion/pubgate):  Lightweight ActivityPub CMS. Implements both client-to-server (C2S) and server-to-server(S2S) APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub. `BSD-3-clause, Python`
 

@@ -80,8 +80,6 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**lectrn**](https://github.com/lectrn/lectrn) ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, JavaScript`
 
-* :heavy_check_mark: [**Lumen-ap-server**](https://notabug.org/tinyrabbit/lumen-ap-server) ([Fedi account](https://floss.social/@tinyrabbit)): ActivityPub server using Lumen framework `MIT, PHP`
-
 * :heavy_check_mark: [**mammoth**](https://gitlab.koehn.com/mammoth) ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, TypeScript`
 
 * :tada: :heavy_check_mark: [**Mastodon**](https://github.com/tootsuite/mastodon) ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
@@ -139,6 +137,8 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**GangGo**](https://github.com/ganggo/ganggo/tree/develop)  - Developer has suspended development for the foreseeable future
 
 * :ghost: [**Jejune**](https://github.com/kaniini/jejune) - A work-in-progress ActivityPub server designed to use constructions which provide functional security and resilience `ISC license, Python`
+
+* :ghost: [**Lumen-ap-server**](https://notabug.org/tinyrabbit/lumen-ap-server) ([Fedi account](https://floss.social/@tinyrabbit)): ActivityPub server using Lumen framework `MIT, PHP`
 
 * :ghost: [**Mistpark 2020**](https://codeberg.org/zot-archive/misty) aka 'misty' - A webserver app that supports AP and Zot protocols, fork of Zap. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 

@@ -53,6 +53,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**GNU social**](https://notabug.org/diogo/gnu-social) ([site](https://gnusocial.network)): Microblogging server with multiple plugins `AGPL-3.0, PHP`
 
+* [**Goldfish Social**](https://github.com/Goldfish-Social/Goldfish) ([Fedi account](https://mstdn.social/@stux)): Alternative for Vine / TikTok (alpha). ActivityPub will come later! `AGPL-3.0, PHP`
+
 * :tada: [**groundpolis**](https://github.com/xeltica/groundpolis): A microblogging service forked from Misskey `AGPL-3.0, TypeScript`
 
 * :tada: :heavy_check_mark: [**Glitch-soc**](https://github.com/glitch-soc/mastodon) ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby`

@@ -11,3 +11,4 @@ These fine people brought us delight by adding their gems of freedom to the deli
 - Danyl Strype (codeberg: [@strypey](https://codeberg.org/strypey/), fediverse: [@strypey@mastodon.nzoss.nz](https://mastodon.nzoss.nz/@strypey/))
 - [Kainoa Kanter](https://t1c.dev) (codeberg: [@ThatOneCalculator](https://codeberg.org/thatonecalculator), fediverse: [@thatonecalculator@stop.voringme](https://stop.voring.me/@thatonecalculator))
 - [Francis Dinh](https://radionoise.ca/) (codeberg: [@normandy](https://codeberg.org/normandy), fediverse: [@norm@misskey.biribiri.dev](https://misskey.biribiri.dev/@norm))
+- [Liaizon Wakest](https://wake.st) (codeberg: [@wakest](https://codeberg.org/), fediverse: [@liaizon@wake.st](https://social.wake.st/@liaizon))

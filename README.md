@@ -65,7 +65,6 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Honk**](https://humungus.tedunangst.com/r/honk) ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
-
 * :heavy_check_mark: [**Kanzaki**](https://github.com/KnzkDev/kanzaki): A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`
 
 * :heavy_check_mark: [**Kepi**](https://gitlab.com/marnanel/chapeau) ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
@@ -94,7 +93,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
 
-* [**Pinetta**](https://codeberg.org/pinetta/pinetta) - a decentralized, federated social pinboard in the style of Pinterest. In development. `AGPL-3.0, Python`
+* [**Pinetta**](https://codeberg.org/pinetta/pinetta) - A decentralized, federated social pinboard in the style of Pinterest. In development. `AGPL-3.0, Python`
 
 * :tada: :heavy_check_mark: [**Pleroma**](https://git.pleroma.social/pleroma) ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
@@ -102,7 +101,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**pubgate**](https://github.com/autogestion/pubgate):  Lightweight ActivityPub CMS. Implements both client-to-server (C2S) and server-to-server(S2S) APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub. `BSD-3-clause, Python`
 
-* [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): still considers adding ActivityPub
+* [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): Still considers adding ActivityPub.
 
 * :heavy_check_mark: [**Rustodon**](https://github.com/rustodon/rustodon): Mastodon-compatible server `AGPL-3.0, Rust`
 

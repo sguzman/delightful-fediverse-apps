@@ -171,8 +171,6 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Dokie.li**](https://github.com/linkeddata/dokieli) ([site](https://dokie.li)): Article authoring and formating `Apache-2.0, JavaScript`
 
-* [**Drupal**](https://www.drupal.org/project/activitypub) ([Fedi account](https://realize.be/user/1)): ActivityPub module for Drupal. `GPL-2.0, PHP`
-
 * :heavy_check_mark: [**GoBlog**](https://git.jlel.se/jlelse/GoBlog) ([site](https://goblog.app/), [Fedi account](https://fosstodon.org/@jle)): Simple blogging system written in Go `MIT, Go`
 
 * :heavy_check_mark: [**Hubzilla**](https://framagit.org/hubzilla) ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP` 

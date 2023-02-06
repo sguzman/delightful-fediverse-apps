@@ -203,6 +203,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**brutalinks**](https://github.com/mariusor/go-littr) ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
+* [**ENiGMA½**](https://github.com/NuSkooler/enigma-bbs): A modern BBS software with a nostalgic flair. (see: [issue](https://github.com/NuSkooler/enigma-bbs/issues/459)) `BSD-2-Clause, Javascript`
+
 * [**Flarum**](https://github.com/squeevee/flarum-ext-feddle): Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
 * :heavy_check_mark: [**Kbin**](https://github.com/ernestwisniewski/kbin) ([site](https://kbin.pub)) - Link aggregator and microblogging platform for Fediverse `AGPL-3.0, PHP`

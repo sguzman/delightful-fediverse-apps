@@ -237,7 +237,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**FunkWhale**](https://dev.funkwhale.audio/funkwhale/funkwhale) ([site](https://funkwhale.audio)): Music streaming `AGPL-3.0, Python`
 
-* :heavy_check_mark: [**Librecast LIVE**](https://github.com/librestack/librecast-live) ([Fedi account](https://chaos.social/@onepict), [site](https://librecast.net/live.html)): Live Streaming Video Platform with Multicast `GPL-2.0-only OR GPL-3.0-only, JavaScript`
+* :heavy_check_mark: [**Librecast LIVE**](https://codeberg.org/librecast/librecast-live) ([Fedi account](https://chaos.social/@onepict), [site](https://librecast.net/live.html)): Live Streaming Video Platform with Multicast `GPL-2.0-only OR GPL-3.0-only, JavaScript`
 
 * :heavy_check_mark: [**Minipub**](https://github.com/skymethod/minipub) ([site](https://minipub.dev)): Minimal ActivityPub server for posting federated podcast comments `MIT, TypeScript`
 

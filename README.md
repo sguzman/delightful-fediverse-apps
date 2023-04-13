@@ -109,7 +109,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks.
 
-* [**Seppo**](https://code.mro.name/mro/seppo) ([site](https://seppo.app/en/), [Fedi account](https://digitalcourage.social/@mro)): A server-side, single-user, Fediverse-integrated microblog engine. Creating static assets published by webserver. (Mirror [at Codeberg](https://codeberg.org/mro/seppo/)) `GPL-3.0, OCaml`
+* [**Seppo**](https://codeberg.org/seppo/seppo) ([site](https://seppo.social), [Fedi account](https://digitalcourage.social/@mro)): A server-side, single-user, Fediverse-integrated microblog engine. Creating static assets published by webserver. `GPL-3.0, OCaml`
 
 * [**Shuttlecraft**](https://github.com/benbrown/shuttlecraft) ([site](https://shuttlecraft.net/), [Fedi account](https://hackers.town/@benbrown)): A single user ActivityPub server to interact with the Fediverse and other indie web protocols like RSS. `MIT, Javascript`
 

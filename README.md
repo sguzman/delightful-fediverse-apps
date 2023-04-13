@@ -393,6 +393,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Smartlike**](https://github.com/smartlike-org/smartlike) ([site](https://smartlike.org/), [Fedi account](https://mastodon.social/@vadim_frolov)): A free non-profit decentralized donation processor with a focus on freedom, privacy and efficiency. `AGPL-3.0, Rust`
 
+* [**Transit Fedilerts**](https://github.com/kona314/transit-fedilerts) ([site])(https://transit.alerts.social/)): ActivityPub-compliant server for distributing transit service alerts. `ISC, Typescript`
+
 * :ghost: [**Agora**](https://github.com/scenaristeur/agora): [Home page](https://scenaristeur.github.io/agora),  POC to use ActivityPub on top of the Solid Platform. - developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy). Latest commit - June 2020 
 
 * :ghost: [**Indienet**](https://source.ind.ie/indienet) - [homepage](https://web.archive.org/web/20190507034117/https://indienet.info/) - abandoned in favour of [Tincan development](https://small-tech.org/research-and-development)

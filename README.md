@@ -93,6 +93,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
 
+* [**OCamlot**](https://github.com/Gopiandcode/ocamlot): An ActivityPub server written in OCaml. `AGPL-3.0, OCaml`
+
 * [**Personal Reader for Drupal**](https://git.drupalcode.org/project/reader) ([Fedi account](https://realize.be/user/1), [site](https://www.drupal.org/project/reader)): A personal reader on your website which is installable as a PWA on your phone or tablet. `GPL-2.0, PHP`
 
 * [**Pinetta**](https://codeberg.org/pinetta/pinetta) - A decentralized, federated social pinboard in the style of Pinterest. In development. `AGPL-3.0, Python`

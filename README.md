@@ -369,6 +369,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**tootgroup.py**](https://github.com/oe4dns/tootgroup.py): Emulate group accounts on Mastodon. `GPL-3.0, Python`
 
+* :tada: :heavy_check_mark: [**Raycast Extension for Akkoma**](https://github.com/wmurphyrd/guppe) ([site](https://www.raycast.com/SevicheCC/akkoma)): By [@Seviche CC](https://kongwoo.icu/seviche), Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status `MIT, TypeScript`
+
 #### Other
 
 * [**activitypub-core**](https://github.com/michaelcpuckett/activitypub-core): An attempt to build a spec-compliant ActivityPub server in Node.js. `MIT, TypeScript`

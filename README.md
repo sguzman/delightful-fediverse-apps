@@ -107,6 +107,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): Still considers adding ActivityPub.
 
+* [**Rebased**](https://gitlab.com/soapbox-pub/rebased): Fediverse backend written in Elixir (fork of [Pleroma](https://pleroma.social/)).  Compatible with the Mastodon API.  The recommended backend for [Soapbox](https://soapbox.pub), also supports [Pleroma-FE](https://docs-fe.akkoma.dev/stable/) as a frontend.
+
 * :heavy_check_mark: [**Rustodon**](https://github.com/rustodon/rustodon): Mastodon-compatible server `AGPL-3.0, Rust`
 
 * [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks.

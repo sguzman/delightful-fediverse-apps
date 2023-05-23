@@ -73,7 +73,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Kitsune**](https://github.com/valerauko/kitsune): An ActivityPub-speaking microblogging service. `AGPL-3.0, Clojure`
 
-* [**Kitsune**](https://github.com/kitsune-soc/kitsune): ActivityPub-federated microblogging. `MIT, Rust`
+* :tada: [**Kitsune**](https://github.com/kitsune-soc/kitsune): ActivityPub-federated microblogging. `MIT, Rust`
 
 * :tada: :heavy_check_mark: [**Ktistec**](https://github.com/toddsundsted/ktistec) ([Fedi account](https://mastodon.social/@toddsundsted), [site](https://epiktistes.com/@toddsundsted/)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
 

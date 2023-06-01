@@ -323,6 +323,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: :tada: [**Bookwyrm**](https://github.com/mouse-reeve/bookwyrm) ([site](https://joinbookwyrm.com), [Fedi account](https://tech.lgbt/@bookwyrm)): A federated alternative to Goodreads (non-OSS license) `ANTI-CAPITALIST SOFTWARE LICENSE v1.4, Python`
 
+* [**FediMovies**](https://code.caric.io/FediMovies/fedimovies): Lively federated movies reviews platform. `AGPL-3.0, Rust`
+
 * :heavy_check_mark: [**Learn Awesome**](https://github.com/learn-awesome/learn): Open-source equivalent review aggregation site. Think GoodReads, but generalized to all learning resources organized by topics, formats and difficulty. `AGPL-3.0, Ruby`
 
 * :ghost: [**exlibris**](https://github.com/exlibris-fed/exlibris): A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)). Latest commit - October 2020 `MIT, Go`

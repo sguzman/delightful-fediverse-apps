@@ -219,7 +219,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Flarum**](https://github.com/squeevee/flarum-ext-feddle): Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
 
-* :heavy_check_mark: [**Kbin**](https://github.com/ernestwisniewski/kbin) ([site](https://kbin.pub)) - Link aggregator and microblogging platform for Fediverse `AGPL-3.0, PHP`
+* :heavy_check_mark: [**Kbin**](https://codeberg.org/Kbin/kbin-core) ([site](https://kbin.pub)) - Link aggregator and microblogging platform for Fediverse `AGPL-3.0, PHP`
 
 * :heavy_check_mark: [**Lemmy**](https://github.com/dessalines/lemmy): Link aggregator, by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378) `AGPL-3.0, Rust`
 

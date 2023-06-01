@@ -401,6 +401,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Transit Fedilerts**](https://github.com/kona314/transit-fedilerts) ([site])(https://transit.alerts.social/)): ActivityPub-compliant server for distributing transit service alerts. `ISC, Typescript`
 
+* [**Vocata**](https://codeberg.org/Vocata/vocata): A vocabulary-agnostic ActivityPub server. Vocata does not limit what types of content can be handled by it, and how it is presented to users. `LGPL-3.0-or-later, Python`
+
 * :ghost: [**Agora**](https://github.com/scenaristeur/agora): [Home page](https://scenaristeur.github.io/agora),  POC to use ActivityPub on top of the Solid Platform. - developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy). Latest commit - June 2020 
 
 * :ghost: [**Indienet**](https://source.ind.ie/indienet) - [homepage](https://web.archive.org/web/20190507034117/https://indienet.info/) - abandoned in favour of [Tincan development](https://small-tech.org/research-and-development)

@@ -141,6 +141,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :tada: :heavy_check_mark: [**Tavern**](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale) ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `MIT, Go`
 
+* [**Tootik**](https://github.com/dimkr/tootik): A federated nanoblogging service with a Gemini frontend. `Apache-2.0, Go`
+
 * [**Vagabond**](https://github.com/CameronWhiteCS/Vagabond) ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
 * :ghost: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, JavaScript`

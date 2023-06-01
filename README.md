@@ -137,6 +137,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Takahē**](https://github.com/andrewgodwin/takahe) ([Fedi account](https://fedi.aeracode.org/@andrew)): An experimental Fediverse server for microblogging `BSD-3-clause, Python`
 
+* [**Tapir**](https://github.com/ar-nelson/tapir) ([Fedi account](https://tapir.social/@tapir), [site](https://tapir.social)): A small, efficient Mastodon-compatible Fediverse server for single-user instances. Based on Deno. (Note: [license discussion](https://socialhub.activitypub.rocks/t/hi-everyone/3165/8)) `Blue Oak, Typescript`
+
 * :tada: :heavy_check_mark: [**Tavern**](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale) ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `MIT, Go`
 
 * [**Vagabond**](https://github.com/CameronWhiteCS/Vagabond) ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`

@@ -33,6 +33,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :heavy_check_mark: [**Aardwolf**](https://github.com/Aardwolf-Social/aardwolf): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
 
+* [**Activity.next**](https://github.com/llun/activities.next): A single actor ActivityPub server implemented in NextJS. `MIT, Typescript`
+
 * :tada: :heavy_check_mark: [**Akkoma**](https://akkoma.dev/AkkomaGang/akkoma) ([site](https://akkoma.social/), [Fedi account](https://ihatebeinga.live/users/akkoma)): A community-driven fork of Pleroma with new features such as support for Misskey-flavored Markdown. `AGPL-3.0, Elixir`
 
 * :heavy_check_mark: [**Bonfire Social**](https://github.com/bonfire-networks) ([site](https://bonfirenetworks.org/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Tend to your digital life in community. `AGPL-3.0, Elixir`

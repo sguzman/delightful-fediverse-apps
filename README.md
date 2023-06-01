@@ -145,6 +145,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Vagabond**](https://github.com/CameronWhiteCS/Vagabond) ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
+* [**Yarn**](https://git.mills.io/yarnsocial/yarn) ([site](https://yarn.social/)): A decentralised self-hosted microblogging platform that has a privacy-first focus. `AGPL-3.0, Go`
+
 * :ghost: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, JavaScript`
 
 * :ghost: [**fed**](https://github.com/kissen/fed): Trying to be a basic twitter-like service that works with ActivityPub. Based on [Go-Fed](https://go-fed.org) `GPL-3.0, Go`

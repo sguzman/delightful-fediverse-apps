@@ -101,7 +101,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Personal Reader for Drupal**](https://git.drupalcode.org/project/reader) ([Fedi account](https://realize.be/user/1), [site](https://www.drupal.org/project/reader)): A personal reader on your website which is installable as a PWA on your phone or tablet. `GPL-2.0, PHP`
 
-* [**Pinetta**](https://codeberg.org/pinetta/pinetta) - A decentralized, federated social pinboard in the style of Pinterest. In development. `AGPL-3.0, Python`
+* [**Pinetta**](https://codeberg.org/pinetta/pinetta) ([Fedi account](https://fedi.software/@pinetta)) - A decentralized, federated social pinboard in the style of Pinterest. (In development, see [prototype](https://codeberg.org/pinetta/proto-pinetta) `AGPL-3.0, Python`
 
 * :tada: :heavy_check_mark: [**Pleroma**](https://git.pleroma.social/pleroma) ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 

@@ -111,6 +111,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**pub**](https://github.com/davecheney/pub) ([Fedi account](https://cheney.net/@dfc)): A tiny ActivityPub host intended for a single actor, that implements Mastodon API for use with various clients. `BSD3-Clause, Go`
 
+* [**Pubblr**](https://github.com/brandonsides/pubblr): A federated blogging platform built on the ActivityPub protocol. `MIT, Go`
+
 * [**pubgate**](https://github.com/autogestion/pubgate):  Lightweight ActivityPub CMS. Implements both client-to-server (C2S) and server-to-server(S2S) APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub. `BSD-3-clause, Python`
 
 * [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): Still considers adding ActivityPub.

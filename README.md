@@ -41,7 +41,9 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Convene**](https://github.com/zinc-collective/convene) ([site](https://convene.zinc.coop/), [Fedi account](https://social.coop/@Zee)): Secure, affordable, private digital spaces for work and play. `PPL-3.0, Ruby`
 
-* [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute `AGPL-3.0, Ruby`
+* [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute. `AGPL-3.0, Ruby`
+
+* [**Emissary**](https://github.com/EmissarySocial/emissary) ([site](https://emissary.social/), [Fedi account](https://mastodon.social/@benpate)): A customizable, private space in the Fediverse where people can create, share, and collaborate. `AGPL-3.0, Go`
 
 * [**Enigmatick**](https://gitlab.com/enigmatick): Social networking platform (under development). `-, Rust`
 

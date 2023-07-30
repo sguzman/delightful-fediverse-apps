@@ -41,6 +41,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Convene**](https://github.com/zinc-collective/convene) ([site](https://convene.zinc.coop/), [Fedi account](https://social.coop/@Zee)): Secure, affordable, private digital spaces for work and play. `PPL-3.0, Ruby`
 
+* [**Decodon**](https://github.com/jesseplusplus/decodon): A fork of Mastodon focusing on followers-only posting of media. Configurable circles to post to. `AGPL-3.0, Ruby`
+
 * [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute. `AGPL-3.0, Ruby`
 
 * [**Emissary**](https://github.com/EmissarySocial/emissary) ([site](https://emissary.social/), [Fedi account](https://mastodon.social/@benpate)): A customizable, private space in the Fediverse where people can create, share, and collaborate. `AGPL-3.0, Go`
@@ -69,6 +71,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Honk**](https://humungus.tedunangst.com/r/honk) ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
+* [**im@stodon**](https://github.com/imas/mastodon) ([site](https://imastodon.net), [Fedi account](https://imastodon.net/@fusagiko)): A fork of Mastodon. Unlisted posts with tags are published on tags, a list of fav tags, image size restrictions and transcoding `AGPL-3.0, Ruby`
+
 * [**Kanzaki**](https://github.com/KnzkDev/kanzaki): A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`
 
 * [**Kepi**](https://gitlab.com/marnanel/chapeau) ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
@@ -79,15 +83,21 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Kitsune**](https://github.com/kitsune-soc/kitsune): ActivityPub-federated microblogging. `MIT, Rust`
 
+* [**kmyblue**](https://github.com/kmycode/mastodon) ([site](https://kmy.blue), [Fedi account](https://kmy.blue/@official)): A fork of Mastodon for creators: emoji reactions, localposting, groups, misskey-like antennas, post self-destruction and more moderation options `AGPL-3.0, Ruby`
+
 * [**Ktistec**](https://github.com/toddsundsted/ktistec) ([Fedi account](https://mastodon.social/@toddsundsted), [site](https://epiktistes.com/@toddsundsted/)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
 
 * [**Kroeg**](https://puckipedia.com/kroeg) ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `Unknown , Rust` 
 
 * [**lectrn**](https://github.com/lectrn/lectrn) ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, JavaScript`
 
+* [**Little Forest**](https://github.com/mashirozx/mastodon) ([site](https://hello.2heng.xin/about/more), [Fedi account](https://hello.2heng.xin/@mashiro)): A fork of Mastodon with full Markdown, Quote and Local-Only Toots, Gitlab/hub sign-in, Google Translate, deeper support of Chinese and more theming. `AGPL-3.0, Ruby`
+
 * [**mammoth**](https://gitlab.koehn.com/mammoth) ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, TypeScript`
 
 * [**Mastodon**](https://github.com/tootsuite/mastodon) ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`
+
+* [**Mathtodon**](https://github.com/Nyoho/mathtodon) ([site](https://mathtod.online/), [Fedi account](https://mathtod.online/@Nyoho)): A fork of Mastodon where you can post toots with beautiful mathematical formulae in TeX/LaTeX style `AGPL-3.0, Ruby`
 
 * [**microblog.pub**](https://git.sr.ht/~tsileo/microblog.pub) ([site](http://docs.microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. `AGPL-3.0, Python`
 

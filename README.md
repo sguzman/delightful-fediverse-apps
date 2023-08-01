@@ -141,7 +141,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Swanye**](https://codeberg.org/WammKD/Swanye) ([Fedi account](https://fosstodon.org/@Swanye)): A tumblelog in the style of Tumblr. `AGPL-3.0, Elixir`
 
-* [**Takahē**](https://github.com/andrewgodwin/takahe) ([Fedi account](https://fedi.aeracode.org/@andrew)): An experimental Fediverse server for microblogging `BSD-3-clause, Python`
+* [**Takahē**](https://github.com/andrewgodwin/takahe) ([site](https://jointakahe.org), [Fedi account](https://jointakahe.takahe.social/@takahe)): An experimental Fediverse server for microblogging `BSD-3-clause, Python`
 
 * [**Tapir**](https://github.com/ar-nelson/tapir) ([Fedi account](https://tapir.social/@tapir), [site](https://tapir.social)): A small, efficient Mastodon-compatible Fediverse server for single-user instances. Based on Deno. (Note: [license discussion](https://socialhub.activitypub.rocks/t/hi-everyone/3165/8)) `Blue Oak, Typescript`
 

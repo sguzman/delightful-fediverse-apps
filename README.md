@@ -223,6 +223,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Yuforium**](https://github.com/yuforium) ([Fedi account](https://mastodon.social/@cpmoser)): A federated community platform that focuses on federated communities so they are no longer constrained to a single entity. `GPL-3.0, TypeScript`
 
+* [**GNUBOARD5**](https://github.com/gnh1201/gnuboard5-activitypub): ActivityPub plugin for [GNUBOARD5](https://github.com/gnuboard/gnuboard5) a general-purpose CMS. `MIT, PHP`
+
 * :ghost: [**FediBlog**](https://framagit.org/DavidLibeau/FediBlog) ([site](https://fedi.blog)): Fully customisable blog engine `GPL-3.0, PHP`
 
 * :ghost: [**Lamia**](https://github.com/Scarly-Crow/lamia): Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. `AGPL-3.0, Python`

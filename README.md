@@ -425,7 +425,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Ocelot Social**](https://github.com/Ocelot-Social-Community/Ocelot-Social): Free and open-source social network for active citizenship. `MIT, JavaScript`
 
-* [**retrospring**](https://github.com/Retrospring/retrospring) ([site](https://retrospring.net/), [Fedi account](https://fosstodon.org/@retrospring)): Q&A based social network. Ask questions, give answers and learn more about your friends. (AP support planned. See: [Github issue](https://github.com/Retrospring/retrospring/issues/395)) `AGPL-3.0, Ruby`
+* [**retrospring**](https://github.com/Retrospring/retrospring) ([site](https://retrospring.net/), [Fedi account](https://floss.social/@retrospring)): Q&A based social network. Ask questions, give answers and learn more about your friends. (AP support planned. See: [Github issue](https://github.com/Retrospring/retrospring/issues/395)) `AGPL-3.0, Ruby`
 
 * [**Smartlike**](https://github.com/smartlike-org/smartlike) ([site](https://smartlike.org/), [Fedi account](https://mastodon.social/@vadim_frolov)): A free non-profit decentralized donation processor with a focus on freedom, privacy and efficiency. `AGPL-3.0, Rust`
 

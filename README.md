@@ -37,6 +37,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Bonfire Social**](https://github.com/bonfire-networks) ([site](https://bonfirenetworks.org/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Tend to your digital life in community. `AGPL-3.0, Elixir`
 
+* [**Bugle**](https://github.com/rknightuk/bugle): ([site](https://bugle.lol/), [Fedi account](@bugle@bugle.lol)) A minimal ActivityPub server built with Laravel. `Unknown, PHP` 
+
 * [**Convene**](https://github.com/zinc-collective/convene) ([site](https://convene.zinc.coop/), [Fedi account](https://social.coop/@Zee)): Secure, affordable, private digital spaces for work and play. `PPL-3.0, Ruby`
 
 * [**Decodon**](https://github.com/jesseplusplus/decodon): A fork of Mastodon focusing on followers-only posting of media. Configurable circles to post to. `AGPL-3.0, Ruby`
@@ -249,6 +251,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**MoonTree**](https://github.com/Faleidel/moontreeproject): Link aggregator, a work in progress `MIT, Typescript`
 
+* [**Postmarks**](https://github.com/ckolderup/postmarks): a single-user bookmarking website designed to live on the Fediverse `MIT, Javascript`
+
 * [**Smilodon**](https://source.puri.sm/liberty/host/smilodon): the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`
 
 * [**vxwClub**](https://github.com/wxwmoe/wxwClub): Simple social groups compatible with ActivityPub. `MIT, PHP`
@@ -414,6 +418,8 @@ Emoji's for each entry provide additional information on project status:
 * [**FairSync**](https://git.fairkom.net/fairsync) ([site](https://fairmove.it/fairsync/)): Develops and collects best practices to synchronize maps and events and to federate messengers and identities. (Funded with NGI0, implementing ActivityStreams, but AP support not clear, currently unlicensed) `Unknown, Java`
 
 * [**FitTrackee**](https://github.com/SamR1/FitTrackee) ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. (Still considering AP support, see [issue](https://github.com/SamR1/FitTrackee/issues/16)) `AGPL-3.0, Python`
+
+* [**fossilphant**](https://github.com/swaldman/fossilphant) ([Fedi account](https://zirk.us/@interfluidity)): a static-site generator for Mastodon archives. `MIT, Javascript`
 
 * [**hvxahv-platform**](https://github.com/disism/hvxahv) ([site](https://dev.halfmemories.com): A multifunctional decentralized social network implementation. `MIT, Go`
 

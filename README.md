@@ -419,7 +419,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**FitTrackee**](https://github.com/SamR1/FitTrackee) ([Fedi account](https://mastodon.social/@SamR1)): A simple self-hosted workout / activity tracker. (Still considering AP support, see [issue](https://github.com/SamR1/FitTrackee/issues/16)) `AGPL-3.0, Python`
 
-* [**fossilphant**](https://github.com/swaldman/fossilphant) ([Fedi account](https://zirk.us/@interfluidity)): a static-site generator for Mastodon archives. `MIT, Javascript`
+* [**fossilphant**](https://github.com/swaldman/fossilphant) ([Fedi account](https://zirk.us/@interfluidity)): a static-site generator for Mastodon archives. `AGPL-3.0, Scala`
 
 * [**hvxahv-platform**](https://github.com/disism/hvxahv) ([site](https://dev.halfmemories.com): A multifunctional decentralized social network implementation. `MIT, Go`
 

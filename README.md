@@ -131,6 +131,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Rebased**](https://gitlab.com/soapbox-pub/rebased): Fediverse backend written in Elixir (fork of [Pleroma](https://pleroma.social/)).  Compatible with the Mastodon API.  The recommended backend for [Soapbox](https://soapbox.pub), also supports [Pleroma-FE](https://docs-fe.akkoma.dev/stable/) as a frontend.
 
+* [**Ruffy**](https://github.com/Taullo/Ruffy) ([Fedi account](https://aethy.com/@Ruffy)): A fork of Glitchsoc, with a changed layout and focus on readability and rich content `AGPL-3.0, Ruby`
+
 * [**Rustodon**](https://github.com/rustodon/rustodon): Mastodon-compatible server `AGPL-3.0, Rust`
 
 * [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks.

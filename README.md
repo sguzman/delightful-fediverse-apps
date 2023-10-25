@@ -291,6 +291,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**snap.as**](https://github.com/snapas) ([Fedi account](https://m.abunchtell.com/@snap_as), [site](https://snap.as)): Snap.as is a minimalist tool for publishing and sharing your photos on the web. (Not really started yet)
 
+* [**Vidzy**](https://codeberg.org/vidzy/vidzy) ([site](https://vidzy.codeberg.page/)): The federated alternative to TikTok. `AGPL-3.0, Python`
+
 * :ghost: [**Acorde**](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit
 
 * :ghost: [**Fontina**](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project"

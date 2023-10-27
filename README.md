@@ -295,6 +295,8 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Acorde**](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit
 
+* :ghost: [**Audon**](https://codeberg.org/namekuji/audon): Audio chat space for Mastodon, Akkoma, GoToSocial, and Firefish, `AGPL-3.0-or-later, Go`
+
 * :ghost: [**Fontina**](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project"
 
 * :ghost: [**Marmota**](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub): Streaming service like Spotify. No commits -  since March 2019 
@@ -307,7 +309,6 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Soundstorm**](https://github.com/weathermen/soundstorm): The Federated Social Audio Platform. (Currently inactive, see [issue](https://github.com/weathermen/soundstorm/issues/21#issuecomment-882626364)) `GPL-3.0, Python`
 
-* :ghost: [**Audon**](https://codeberg.org/namekuji/audon): Audio chat space for Mastodon, Akkoma, GoToSocial, and Firefish, `AGPL-3.0-or-later, Go`
  
 #### Events and Meetups
 

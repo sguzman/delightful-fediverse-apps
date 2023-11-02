@@ -131,7 +131,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): Still considers adding ActivityPub.
 
-* [**Rebased**](https://gitlab.com/soapbox-pub/rebased): Fediverse backend written in Elixir (fork of [Pleroma](https://pleroma.social/)).  Compatible with the Mastodon API.  The recommended backend for [Soapbox](https://soapbox.pub), also supports [Pleroma-FE](https://docs-fe.akkoma.dev/stable/) as a frontend.
+* [**Rebased**](https://gitlab.com/soapbox-pub/rebased): Fediverse backend written in Elixir (fork of [Pleroma](https://pleroma.social/)).  Compatible with the Mastodon API. The recommended backend for [Soapbox](https://soapbox.pub), also supports [Pleroma-FE](https://docs-fe.akkoma.dev/stable/) as a frontend.
 
 * [**Ruffy**](https://github.com/Taullo/Ruffy) ([Fedi account](https://aethy.com/@Ruffy)): A fork of Glitchsoc, with a changed layout and focus on readability and rich content `AGPL-3.0, Ruby`
 
@@ -323,6 +323,8 @@ Emoji's for each entry provide additional information on project status:
 * [**The Occasion Octopus**](https://github.com/theoccasionoctopus/theoccasionoctopus-server) ([site](https://www.theoccasionoctopus.net/), [Fedi account](https://fosstodon.org/@theoccasionoctopus)): A federated network ofOpen Data for discovering interesting events `AGPL-3.0, PHP`
 
 * **Friendica** (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
+
+* **Rebased** (see above) also supports Mobilizon-compatible events. Only available in Soapbox front-end.
 
 * :ghost: [**FedEvent**](https://github.com/shiburizu/fedevent): A prototype for federating event information
 

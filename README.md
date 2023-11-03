@@ -287,7 +287,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**snap.as**](https://github.com/snapas) ([Fedi account](https://m.abunchtell.com/@snap_as), [site](https://snap.as)): Snap.as is a minimalist tool for publishing and sharing your photos on the web. (Not really started yet)
 
-* [**VPipe**](https://codeberg.org/lime360/vpipe): A self-hosted video sharing app aimed at high customization. In heavy development. `No license, PHP`
+* [**VPipe**](https://codeberg.org/lime360/vpipe): A self-hosted video sharing app aimed at high customization. In heavy development. `MIT, PHP`
 
 * :ghost: [**Acorde**](https://github.com/polymerwitch/Acorde) - federated social music platform. Almost a year has passed since the initial commit
 

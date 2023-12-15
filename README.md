@@ -390,6 +390,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Gitea**](https://github.com/go-gitea/gitea) ([site](https://gitea.io/en-us/)): A community managed lightweight code hosting solution. (In progress. For status, see: [go-gitea/#18240](https://github.com/go-gitea/gitea/issues/18240), [gitea/#3](https://gitea.com/Ta180m/gitea/issues/3)) `MIT, Go`
 
+* [**Gitlab**](https://gitlab.com): Starting with 'Social following' Gitlab is working along a roadmap to adding ActivityPub support. See top-level [Epic](https://gitlab.com/groups/gitlab-org/-/epics/11247). `MIT, Ruby`
+
 * [**Git Social**](https://git.vp.mk/ui/git-social.git/master/about): A federated self-hosted git repository management tool `GPL-3.0, Rust`
 
 * [**Ruisseau**](https://github.com/oknozor/ruisseau): Federated Git platform (still in early stages of development). `-, Rust`

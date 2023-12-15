@@ -145,6 +145,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Seppo**](https://codeberg.org/seppo/seppo) ([site](https://seppo.social), [Fedi account](https://digitalcourage.social/@mro)): A server-side, single-user, Fediverse-integrated microblog engine. Creating static assets published by webserver. `GPL-3.0, OCaml`
 
+* [**Sharkey**](https://git.joinsharkey.org/Sharkey/Sharkey): A Sharkish microblogging platform. `AGPL-3.0, Typescript`
+
 * [**Shuttlecraft**](https://github.com/benbrown/shuttlecraft) ([site](https://shuttlecraft.net/), [Fedi account](https://hackers.town/@benbrown)): A single user ActivityPub server to interact with the Fediverse and other indie web protocols like RSS. `MIT, Javascript`
 
 * [**Smalltown**](https://github.com/chandrn7/smalltown): A fork of Mastodon designed for civic communities looking to run their own social networks. `AGPL-3.0, Ruby`

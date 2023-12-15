@@ -245,6 +245,8 @@ Emoji's for each entry provide additional information on project status:
 
 #### Link-sharing, Forum, and Group Apps
 
+* [**Azorius**](https://humungus.tedunangst.com/r/azorius): A link aggregator and comment site. `ISC, Go`
+
 * [**brutalinks**](https://github.com/mariusor/go-littr) ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
 * [**ENiGMA½**](https://github.com/NuSkooler/enigma-bbs): A modern BBS software with a nostalgic flair. (see: [issue](https://github.com/NuSkooler/enigma-bbs/issues/459)) `BSD-2-Clause, Javascript`

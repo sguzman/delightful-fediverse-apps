@@ -95,6 +95,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**lectrn**](https://github.com/lectrn/lectrn) ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, JavaScript`
 
+* [**Letterbook**](https://github.com/Letterbook/Letterbook) ([Fedi account](https://hachyderm.io/@jenniferplusplus)): A Mastodon-compatible microblogging server, optimized to reduce administrative costs and burdens. `AGPL-3.0, C#`
+
 * [**Little Forest**](https://github.com/mashirozx/mastodon) ([site](https://hello.2heng.xin/about/more), [Fedi account](https://hello.2heng.xin/@mashiro)): A fork of Mastodon with full Markdown, Quote and Local-Only Toots, Gitlab/hub sign-in, Google Translate, deeper support of Chinese and more theming. `AGPL-3.0, Ruby`
 
 * [**mammoth**](https://gitlab.koehn.com/mammoth) ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, TypeScript`

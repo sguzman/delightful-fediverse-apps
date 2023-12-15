@@ -107,11 +107,11 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Mathtodon**](https://github.com/Nyoho/mathtodon) ([site](https://mathtod.online/), [Fedi account](https://mathtod.online/@Nyoho)): A fork of Mastodon where you can post toots with beautiful mathematical formulae in TeX/LaTeX style `AGPL-3.0, Ruby`
 
-* [**microblog.pub**](https://git.sr.ht/~tsileo/microblog.pub) ([site](http://docs.microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. `AGPL-3.0, Python`
-
 * [**MatticNote**](https://github.com/MatticNote/MatticNote): ActivityPub compatible SNS that aims to be easy for everyone to use. `AGPL-3.0, Go`
 
 * [**Mbin**](https://github.com/MbinOrg/mbin): A federated content aggregator, voting, discussion and microblogging platform. Fork of Kbin. `AGPL-3.0, PHP`
+
+* [**microblog.pub**](https://git.sr.ht/~tsileo/microblog.pub) ([site](http://docs.microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. `AGPL-3.0, Python`
 
 * [**microstatus**](https://github.com/Arkanosis/microstatus): Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
 

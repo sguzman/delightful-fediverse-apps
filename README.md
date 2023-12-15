@@ -47,7 +47,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Emissary**](https://github.com/EmissarySocial/emissary) ([site](https://emissary.social/), [Fedi account](https://mastodon.social/@benpate)): A customizable, private space in the Fediverse where people can create, share, and collaborate. `AGPL-3.0, Go`
 
-* [**Enigmatick**](https://gitlab.com/enigmatick): Social networking platform (under development). `-, Rust`
+* [**Enigmatick**](https://gitlab.com/enigmatick) ([Fedi account](https://ser.endipito.us/@justin)): Social networking platform (under development). `-, Rust`
 
 * [**Epicyon**](https://gitlab.com/bashrc2/epicyon) ([site](https://libreserver.org/epicyon)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
 

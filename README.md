@@ -233,6 +233,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**site**](https://github.com/Lonor/site): Minimalist blog that implements ActivityPub endpoints. `MIT, Javascript`
 
+* [**social.distributed.press**](https://github.com/hyphacoop/social.distributed.press): A Social Inbox for Decentralized Publishing and ActivityPub. `AGPL-3.0, Typescript`
+
 * [**WordPress**](https://codeberg.org/fediverse/fediparty/wiki/Wordpress-integration-with-Fediverse) - [listed as a project on the-federation.info](https://the-federation.info/wordpress). [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, and comment on them, from an AP app
 
 * [**WriteFreely**](https://github.com/writefreely) ([site](https://writefreely.org), [Fedi account](https://writing.exchange/@writefreely)): Blog software `AGPL-3.0, Go`

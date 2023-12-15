@@ -111,6 +111,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**MatticNote**](https://github.com/MatticNote/MatticNote): ActivityPub compatible SNS that aims to be easy for everyone to use. `AGPL-3.0, Go`
 
+* [**Mbin**](https://github.com/MbinOrg/mbin): A federated content aggregator, voting, discussion and microblogging platform. Fork of Kbin. `AGPL-3.0, PHP`
+
 * [**microstatus**](https://github.com/Arkanosis/microstatus): Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
 
 * [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`

@@ -257,6 +257,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Azorius**](https://humungus.tedunangst.com/r/azorius): A link aggregator and comment site. `ISC, Go`
 
+* [**Betula**](https://git.sr.ht/~bouncepaw/betula/tree) ([site](https://betula.mycorrhiza.wiki/)):  Self-hosted personal link collection manager. `AGPL-3.0, Go`
+
 * [**brutalinks**](https://github.com/mariusor/go-littr) ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
 * [**ENiGMA½**](https://github.com/NuSkooler/enigma-bbs): A modern BBS software with a nostalgic flair. (see: [issue](https://github.com/NuSkooler/enigma-bbs/issues/459)) `BSD-2-Clause, Javascript`
@@ -445,6 +447,8 @@ Emoji's for each entry provide additional information on project status:
 * [**Communecter**](https://github.com/pixelhumain/communecter) ([site](https://www.communecter.org/)): Manage cities as a connected citizen, produce openCityData, manage organizations, projects, events openly, an open societal approach (intends to add AP support, see [this issue](https://github.com/pixelhumain/communecter/issues/1395)) `Apache-2.0, PHP`
 
 * [**Corteza**](https://github.com/cortezaproject/corteza-server) ([site](https://cortezaproject.org)): "Digital Work Platform for Humanity" an open-source, low-code federated platform for building cloud-based business apps with CRM capabilities `Apache-2.0, Go`
+
+* [**DiveDB**](https://github.com/cetra3/divedb): Web application that allows Scuba Divers to catalogue and record their dives, dive sites, sealife and photos. ([site](https://divedb.net/)): `AGPL-3.0, Rust` 
 
 * [**ENiGMA½ BBS**](https://github.com/NuSkooler/enigma-bbs) ([site](https://nuskooler.github.io/enigma-bbs/)): A modern BBS software with a nostalgic flair! (In progress, see [PR](https://github.com/NuSkooler/enigma-bbs/pull/460)) `BSD-2-Clause, Javascript`
 

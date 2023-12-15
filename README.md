@@ -75,6 +75,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Iceshrimp**](https://iceshrimp.dev/iceshrimp/iceshrimp): A Misskey fork with a focus on community needs, bugfixes, QoL and performance `AGPL-3.0, TypeScript`
 
+* [**illuminant**](https://koldfront.dk/git/illuminant/tree/README.md): An ActivityPub server with an NNTP interface. `GPL-2.0, Haskell`
+
 * [**im@stodon**](https://github.com/imas/mastodon) ([site](https://imastodon.net), [Fedi account](https://imastodon.net/@fusagiko)): A fork of Mastodon. Unlisted posts with tags are published on tags, a list of fav tags, image size restrictions and transcoding `AGPL-3.0, Ruby`
 
 * [**Kanzaki**](https://github.com/KnzkDev/kanzaki): A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`

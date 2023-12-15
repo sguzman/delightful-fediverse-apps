@@ -261,6 +261,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Smilodon**](https://source.puri.sm/liberty/host/smilodon): the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`
 
+* [**Vicinitude**](https://gitlab.com/RyanMcCoskrie/vicinitude): A social media platform for Local Communities. `MIT, Ruby`
+
 * [**vxwClub**](https://github.com/wxwmoe/wxwClub): Simple social groups compatible with ActivityPub. `MIT, PHP`
 
 * :ghost: [**Anancus**](https://gitlab.com/tuxether/anancus): By [@tuxether](https://floss.social/@tuxether), Link aggregator, [discontinued](https://gitlab.com/tuxether/anancus/issues/2)?

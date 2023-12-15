@@ -259,7 +259,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**MoonTree**](https://github.com/Faleidel/moontreeproject): Link aggregator, a work in progress `MIT, Typescript`
 
-* [**Postmarks**](https://github.com/ckolderup/postmarks): a single-user bookmarking website designed to live on the Fediverse `MIT, Javascript`
+* [**Postmarks**](https://github.com/ckolderup/postmarks) ([site](https://postmarks.glitch.me/)): a single-user bookmarking website designed to live on the Fediverse `MIT, Javascript`
 
 * [**Smilodon**](https://source.puri.sm/liberty/host/smilodon): the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`
 

@@ -99,6 +99,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Little Forest**](https://github.com/mashirozx/mastodon) ([site](https://hello.2heng.xin/about/more), [Fedi account](https://hello.2heng.xin/@mashiro)): A fork of Mastodon with full Markdown, Quote and Local-Only Toots, Gitlab/hub sign-in, Google Translate, deeper support of Chinese and more theming. `AGPL-3.0, Ruby`
 
+* [**Magnetar**](https://git.astolfo.cool/natty/magnetar): A social networking server anyone can self-host. `AGPL-3.0, Rust`
+
 * [**mammoth**](https://gitlab.koehn.com/mammoth) ([Fedi account](https://mammoth.home.koehn.com/api/actor/bkoehn)): A federated social media platform implementing the ActivityPub specification for client/server and server/server communications. `AGPL-3.0, TypeScript`
 
 * [**Mastodon**](https://github.com/tootsuite/mastodon) ([site](https://joinmastodon.org)): Epic microblogging network with many features and multiple interface layouts to choose from `AGPL-3.0, Ruby`

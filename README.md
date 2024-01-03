@@ -37,7 +37,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Bonfire Social**](https://github.com/bonfire-networks) ([site](https://bonfirenetworks.org/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Tend to your digital life in community. `AGPL-3.0, Elixir`
 
-* [**Bugle**](https://github.com/rknightuk/bugle): ([site](https://bugle.lol/), [Fedi account](@bugle@bugle.lol)) A minimal ActivityPub server built with Laravel. `Unknown, PHP` 
+* [**Bugle**](https://github.com/rknightuk/bugle) ([site](https://bugle.lol/), [Fedi account](@bugle@bugle.lol)): A minimal ActivityPub server built with Laravel. `Unknown, PHP`
 
 * [**Convene**](https://github.com/zinc-collective/convene) ([site](https://convene.zinc.coop/), [Fedi account](https://social.coop/@Zee)): Secure, affordable, private digital spaces for work and play. `PPL-3.0, Ruby`
 
@@ -53,7 +53,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Firefish**](https://git.joinfirefish.org/firefish/firefish) ([site](https://joinfirefish.org/), [Fedi account](https://fedi.software/@firefish)): An actively developed, community-driven fork of Misskey with many quality of life improvements for users and admins alike `AGPL-3.0, TypeScript`
 
-* [**FlockingBird**](https://github.com/flockingbird/roost) ([site](https://search.flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird)): social network for professionals (WIP)
+* [**FlockingBird**](https://github.com/flockingbird/roost) ([site](https://search.flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird)): social network for professionals (WIP) `Unknown, Unknown`
 
 * [**FoundKey**](https://akkoma.dev/FoundKeyGang/FoundKey): A fork of Misskey with various bugfixes and improvements. `AGPL-3.0, TypeScript`
 
@@ -69,7 +69,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**GoToSocial**](https://github.com/gotosocial/gotosocial) ([Fedi account](https://ondergrond.org/@dumpsterqueer)): A headless Mastodon-compatible Fediverse server project, written in Golang. `AGPL-3.0, Go`
 
-* [**Hometown**](https://github.com/hometown-fork/hometown) ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby` 
+* [**Hometown**](https://github.com/hometown-fork/hometown) ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby`
 
 * [**Honk**](https://humungus.tedunangst.com/r/honk) ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
@@ -93,7 +93,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Ktistec**](https://github.com/toddsundsted/ktistec) ([Fedi account](https://mastodon.social/@toddsundsted), [site](https://epiktistes.com/@toddsundsted/)): A single-user ActivityPub server with minimal dependencies, using SQLite, [server](https://epiktistes.com) `AGPL-3.0, Crystal`
 
-* [**Kroeg**](https://puckipedia.com/kroeg) ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `Unknown , Rust` 
+* [**Kroeg**](https://puckipedia.com/kroeg) ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `Unknown , Rust`
 
 * [**lectrn**](https://github.com/lectrn/lectrn) ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, JavaScript`
 
@@ -125,7 +125,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Personal Reader for Drupal**](https://git.drupalcode.org/project/reader) ([Fedi account](https://realize.be/user/1), [site](https://www.drupal.org/project/reader)): A personal reader on your website which is installable as a PWA on your phone or tablet. `GPL-2.0, PHP`
 
-* [**Pinetta**](https://codeberg.org/pinetta/pinetta) ([Fedi account](https://fedi.software/@pinetta)) - A decentralized, federated social pinboard in the style of Pinterest. (In development, see [prototype](https://codeberg.org/pinetta/proto-pinetta) `AGPL-3.0, Python`
+* [**Pinetta**](https://codeberg.org/pinetta/pinetta) ([Fedi account](https://fedi.software/@pinetta)): A decentralized, federated social pinboard in the style of Pinterest. (In development, see [prototype](https://codeberg.org/pinetta/proto-pinetta) `AGPL-3.0, Python`
 
 * [**Pleroma**](https://git.pleroma.social/pleroma) ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
@@ -135,17 +135,17 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Pubblr**](https://github.com/brandonsides/pubblr): A federated blogging platform built on the ActivityPub protocol. `MIT, Go`
 
-* [**pubgate**](https://github.com/autogestion/pubgate):  Lightweight ActivityPub CMS. Implements both client-to-server (C2S) and server-to-server(S2S) APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub. `BSD-3-clause, Python`
+* [**pubgate**](https://github.com/autogestion/pubgate): Lightweight ActivityPub CMS. Implements both client-to-server (C2S) and server-to-server(S2S) APIs. Compatible with Mastodon, Pixelfed, Pleroma and microblog.pub. `BSD-3-clause, Python`
 
-* [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): Still considers adding ActivityPub.
+* [**pump.io**](https://github.com/pump-io/pump.io/issues/1241): Still considers adding ActivityPub. `Unknown, Unknown`
 
-* [**Rebased**](https://gitlab.com/soapbox-pub/rebased): Fediverse backend written in Elixir (fork of [Pleroma](https://pleroma.social/)).  Compatible with the Mastodon API.  The recommended backend for [Soapbox](https://soapbox.pub), also supports [Pleroma-FE](https://docs-fe.akkoma.dev/stable/) as a frontend.
+* [**Rebased**](https://gitlab.com/soapbox-pub/rebased): Fediverse backend written in Elixir (fork of [Pleroma](https://pleroma.social/)). Compatible with the Mastodon API.  The recommended backend for [Soapbox](https://soapbox.pub), also supports [Pleroma-FE](https://docs-fe.akkoma.dev/stable/) as a frontend. `Unknown, Unknown`
 
 * [**Ruffy**](https://github.com/Taullo/Ruffy) ([Fedi account](https://aethy.com/@Ruffy)): A fork of Glitchsoc, with a changed layout and focus on readability and rich content `AGPL-3.0, Ruby`
 
 * [**Rustodon**](https://github.com/rustodon/rustodon): Mastodon-compatible server `AGPL-3.0, Rust`
 
-* [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks.
+* [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks. `Unknown, Unknown`
 
 * [**Seppo**](https://codeberg.org/seppo/seppo) ([site](https://seppo.social), [Fedi account](https://digitalcourage.social/@mro)): A server-side, single-user, Fediverse-integrated microblog engine. Creating static assets published by webserver. `GPL-3.0, OCaml`
 
@@ -177,7 +177,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Vagabond**](https://github.com/CameronWhiteCS/Vagabond) ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
-* [**Wafrn**](https://github.com/gabboman/wafrn): Small Tumbl-inspired social network. `Apache-2.0, Typescript` 
+* [**Wafrn**](https://github.com/gabboman/wafrn): Small Tumbl-inspired social network. `Apache-2.0, Typescript`
 
 * [**Yarn**](https://git.mills.io/yarnsocial/yarn) ([site](https://yarn.social/)): A decentralised self-hosted microblogging platform that has a privacy-first focus. `AGPL-3.0, Go`
 
@@ -199,7 +199,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Pylodon**](https://github.com/rowanlupton/pylodon) - Flask-based (Python) ActivityPub server , [source code also on GitLab](https://gitlab.com/rowanlupton/pylodon), no updates on either repo for about a year, nor on their [Smilodon client app](https://github.com/rowanlupton/smilodon)
 
-* :ghost: [**Redmatrix 2020**](https://codeberg.org/zot-archive/redmatrix): A fediverse server. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP` 
+* :ghost: [**Redmatrix 2020**](https://codeberg.org/zot-archive/redmatrix): A fediverse server. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
 * :ghost: [**Roadhouse**](https://codeberg.org/zot-archive/roadhouse): Next gen Fediverse server. (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
@@ -223,7 +223,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**GoBlog**](https://git.jlel.se/jlelse/GoBlog) ([site](https://goblog.app/), [Fedi account](https://fosstodon.org/@jle)): Simple blogging system written in Go `MIT, Go`
 
-* [**Hubzilla**](https://framagit.org/hubzilla) ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP` 
+* [**Hubzilla**](https://framagit.org/hubzilla) ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP`
 
 * [**Known**](https://github.com/idno/known) ([site](https://withknown.com/), [Fedi account](https://mastodon.social/@benwerd)): A collaborative social publishing engine (Working on AP support, see [this issue](https://github.com/idno/known/issues/2615)). `Apache-2.0, PHP`
 
@@ -239,7 +239,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Wordforge**](https://codeberg.org/grafcube/wordforge): Federated creative writing server. Write novels using markdown. `AGPL-3.0, Rust`
 
-* [**WordPress**](https://codeberg.org/fediverse/fediparty/wiki/Wordpress-integration-with-Fediverse) - [listed as a project on the-federation.info](https://the-federation.info/wordpress). [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, and comment on them, from an AP app
+* [**WordPress**](https://codeberg.org/fediverse/fediparty/wiki/Wordpress-integration-with-Fediverse) - [listed as a project on the-federation.info](https://the-federation.info/wordpress): [AP plug-in](https://wordpress.org/plugins/activitypub) by @pfefferle@mastodon.social, that allows users on AP apps to follow WP blogs, and comment on them, from an AP app. `Unknown, Unknown`
 
 * [**WriteFreely**](https://github.com/writefreely) ([site](https://writefreely.org), [Fedi account](https://writing.exchange/@writefreely)): Blog software `AGPL-3.0, Go`
 
@@ -257,25 +257,25 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Azorius**](https://humungus.tedunangst.com/r/azorius): A link aggregator and comment site. `ISC, Go`
 
-* [**Betula**](https://git.sr.ht/~bouncepaw/betula/tree) ([site](https://betula.mycorrhiza.wiki/)):  Self-hosted personal link collection manager. `AGPL-3.0, Go`
+* [**Betula**](https://git.sr.ht/~bouncepaw/betula/tree) ([site](https://betula.mycorrhiza.wiki/)): Self-hosted personal link collection manager. `AGPL-3.0, Go`
 
 * [**brutalinks**](https://github.com/mariusor/go-littr) ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
 * [**ENiGMA½**](https://github.com/NuSkooler/enigma-bbs): A modern BBS software with a nostalgic flair. (see: [issue](https://github.com/NuSkooler/enigma-bbs/issues/459)) `BSD-2-Clause, Javascript`
 
-* [**Flarum**](https://github.com/squeevee/flarum-ext-feddle): Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361)
+* [**Flarum**](https://github.com/squeevee/flarum-ext-feddle): Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361). `Unknown, Unknown`
 
-* [**Kbin**](https://codeberg.org/Kbin/kbin-core) ([site](https://kbin.pub)) - Link aggregator and microblogging platform for Fediverse `AGPL-3.0, PHP`
+* [**Kbin**](https://codeberg.org/Kbin/kbin-core) ([site](https://kbin.pub)): Link aggregator and microblogging platform for Fediverse `AGPL-3.0, PHP`
 
 * [**Lemmy**](https://github.com/dessalines/lemmy): Link aggregator, by [@LemmyDev](https://mastodon.social/@LemmyDev/102106696961226378) `AGPL-3.0, Rust`
 
-* [**Lobste.rs**](https://github.com/lobsters/lobsters/issues/499): Existing Reddit replacement adding AP support, AP issue still open
+* [**Lobste.rs**](https://github.com/lobsters/lobsters/issues/499): Existing Reddit replacement adding AP support, AP issue still open. `Unknown, Unknown`
 
 * [**lotide**](https://git.sr.ht/~vpzom/lotide): A federated forum / link aggregator. `AGPL-3.0, Rust`
 
 * [**MoonTree**](https://github.com/Faleidel/moontreeproject): Link aggregator, a work in progress `MIT, Typescript`
 
-* [**Postmarks**](https://github.com/ckolderup/postmarks) ([site](https://postmarks.glitch.me/)): a single-user bookmarking website designed to live on the Fediverse `MIT, Javascript`
+* [**Postmarks**](https://github.com/ckolderup/postmarks) ([site](https://postmarks.glitch.me/)): A single-user bookmarking website designed to live on the Fediverse `MIT, Javascript`
 
 * [**Smilodon**](https://source.puri.sm/liberty/host/smilodon): the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`
 
@@ -311,7 +311,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Podverse**](https://github.com/podverse/podverse-web) ([Fedi account](https://podcastindex.social/web/@podverse), [site](https://podverse.fm)): Web app for the Podverse podcast clip sharing system. `AGPL-3.0, TypeScript`
 
-* [**snap.as**](https://github.com/snapas) ([Fedi account](https://m.abunchtell.com/@snap_as), [site](https://snap.as)): Snap.as is a minimalist tool for publishing and sharing your photos on the web. (Not really started yet)
+* [**snap.as**](https://github.com/snapas) ([Fedi account](https://m.abunchtell.com/@snap_as), [site](https://snap.as)): Snap.as is a minimalist tool for publishing and sharing your photos on the web. (Not really started yet) `Unknown, Unknown`
 
 * [**Vidzy**](https://codeberg.org/vidzy/vidzy) ([site](https://vidzy.codeberg.page/)): The federated alternative to TikTok. `AGPL-3.0, Python`
 
@@ -321,7 +321,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Fontina**](https://github.com/beta-phenylethylamine/fontina) - proposed as a photo-sharing social media network. GH repo has gone read-only, and now says "dead project"
 
-* :ghost: [**Marmota**](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub): Streaming service like Spotify. No commits -  since March 2019 
+* :ghost: [**Marmota**](https://gitlab.com/Nefix/marmota/issues?label_name=ActivityPub): Streaming service like Spotify. No commits -  since March 2019
 
 * :ghost: [**Pubcast**](https://github.com/pubcast/pubcast) ([site](https://pubcast.pub)): Podcasting platform that allows people to listen to podcasts in a new way. Latest commit - March 2019. `MPL-2.0, Go`
 
@@ -331,20 +331,19 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Soundstorm**](https://github.com/weathermen/soundstorm): The Federated Social Audio Platform. (Currently inactive, see [issue](https://github.com/weathermen/soundstorm/issues/21#issuecomment-882626364)) `GPL-3.0, Python`
 
- 
 #### Events and Meetups
 
 * [**Gancio**](https://framagit.org/les/gancio) ([site](https://gancio.org)): Shared agenda for local communities; demo [site](https://demo.gancio.org) `AGPL-3.0, JavaScript`
 
 * [**Gath**](https://github.com/lowercasename/gathio): Public events with no registration required, an instance connected with the friend.camp Mastodon instance is up at: http://events.friend.camp `GPL-3.0, JavaScript`
 
-* [**GetTogether**](https://github.com/GetTogetherComm/GetTogether/issues/60) - Still considering adding AP support
+* [**GetTogether**](https://github.com/GetTogetherComm/GetTogether/issues/60): Still considering adding AP support. `Unknown, Unknown`
 
 * [**Mobilizon**](https://framagit.org/framasoft/mobilizon) ([site](https://joinmobilizon.org/en), [Fedi account](https://framapiaf.org/@mobilizon)): Aims to be more than a Meetup clone `AGPL-3.0, Elixir`
 
 * [**The Occasion Octopus**](https://github.com/theoccasionoctopus/theoccasionoctopus-server) ([site](https://www.theoccasionoctopus.net/), [Fedi account](https://fosstodon.org/@theoccasionoctopus)): A federated network ofOpen Data for discovering interesting events `AGPL-3.0, PHP`
 
-* **Friendica** (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440).
+* **Friendica** (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440). `Unknown, Unknown`
 
 * :ghost: [**FedEvent**](https://github.com/shiburizu/fedevent): A prototype for federating event information
 
@@ -354,7 +353,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**NextCloud-Social**](https://github.com/nextcloud/social) ([site](https://apps.nextcloud.com/apps/social)): Social networking app for NextCloud `AGPL-3.0, PHP`
 
-* [**MoodleNet**](https://gitlab.com/moodlenet): [Social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources)
+* [**MoodleNet**](https://gitlab.com/moodlenet): [Social client for Moodle](https://moodle.com/moodlenet) LMS (Learning Management System) aimed at helping teachers collaboratively collate and curate sets of OER (Open Educational Resources). `Unknown, Unknown`
 
 * :ghost: [**Calendar-social**](https://gitea.polonkai.eu/gergely/calendar-social/) - was definitely planning to [implement AP](https://gitea.polonkai.eu/gergely/calendar-social/issues/122). Missing, [presumed discontinued](https://gitea.polonkai.eu/gergely/calendar-social/issues/123)
 
@@ -364,7 +363,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Chatter Net**](https://github.com/chatternet/chatternet-server-http): Chatter Net is a modern decentralized semantic web built atop self-sovereign identity. `MIT, Rust`
 
-* [**CPub**](https://gitlab.com/openengiadina/cpub): a semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
+* [**CPub**](https://gitlab.com/openengiadina/cpub): A semantic web server, implements a Linked Data Platform (LDP), uses RDF Turtle as serialization format, part of the [openEngiadina](https://openengiadina.net) project `AGPL-3.0, Elixir`
 
 * [**Inventaire**](https://github.com/inventaire/inventaire) ([site](https://inventaire.io/welcome), [Fedi account](https://mamot.fr/@inventaire)): A libre collaborative resource mapper powered by open-knowledge, starting with books. (Considers AP integration, see [Github issue](https://github.com/inventaire/inventaire/issues/187)) `AGPL-3.0, JavaScript`
 
@@ -422,7 +421,7 @@ Emoji's for each entry provide additional information on project status:
 
 #### Extensions
 
-* [**apevents**](https://github.com/ngerakines/apevents) ([Fedi account](https://thegem.city/@nick)) - Event management system that allows event creation and coordination across Fediverse `MIT, Rust`
+* [**apevents**](https://github.com/ngerakines/apevents) ([Fedi account](https://thegem.city/@nick)): Event management system that allows event creation and coordination across Fediverse `MIT, Rust`
 
 * [**AP-Groups**](https://github.com/michaelcpuckett/ap-groups) ([site](https://chirp.social/), [Fedi account](https://a11y.social/@mpuckett)): Group actors as bot/relay. `MIT, TypeScript`
 
@@ -432,7 +431,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Guppe**](https://github.com/wmurphyrd/guppe) ([site](https://a.gup.pe)): By [@datatitian](https://social.coop/@datatitian/102837577105371476), adds "groups" support as group-type actors `GPL-3.0, JavaScript`
 
-* [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): a bot that implements group functionality in Mastodon. `MIT, Python`
+* [**Mastodon Bot Autoresponder**](https://github.com/drequivalent/mastodon-bot-autoresponder) ([Fedi account](https://mastodon.ml/@drq)): A bot that implements group functionality in Mastodon. `MIT, Python`
 
 * [**tootgroup.py**](https://github.com/oe4dns/tootgroup.py): Emulate group accounts on Mastodon. `GPL-3.0, Python`
 
@@ -448,7 +447,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Corteza**](https://github.com/cortezaproject/corteza-server) ([site](https://cortezaproject.org)): "Digital Work Platform for Humanity" an open-source, low-code federated platform for building cloud-based business apps with CRM capabilities `Apache-2.0, Go`
 
-* [**DiveDB**](https://github.com/cetra3/divedb): Web application that allows Scuba Divers to catalogue and record their dives, dive sites, sealife and photos. ([site](https://divedb.net/)): `AGPL-3.0, Rust` 
+* [**DiveDB**](https://github.com/cetra3/divedb): Web application that allows Scuba Divers to catalogue and record their dives, dive sites, sealife and photos. ([site](https://divedb.net/)): `AGPL-3.0, Rust`
 
 * [**ENiGMA½ BBS**](https://github.com/NuSkooler/enigma-bbs) ([site](https://nuskooler.github.io/enigma-bbs/)): A modern BBS software with a nostalgic flair! (In progress, see [PR](https://github.com/NuSkooler/enigma-bbs/pull/460)) `BSD-2-Clause, Javascript`
 
@@ -458,7 +457,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**flohmarkt**](https://codeberg.org/grindhold/flohmarkt): A decentralised federated small trade platform. `AGPL-3.0, Python`
 
-* [**fossilphant**](https://github.com/swaldman/fossilphant) ([Fedi account](https://zirk.us/@interfluidity)): a static-site generator for Mastodon archives. `AGPL-3.0, Scala`
+* [**fossilphant**](https://github.com/swaldman/fossilphant) ([Fedi account](https://zirk.us/@interfluidity)): A static-site generator for Mastodon archives. `AGPL-3.0, Scala`
 
 * [**hvxahv-platform**](https://github.com/disism/hvxahv) ([site](https://dev.halfmemories.com): A multifunctional decentralized social network implementation. `MIT, Go`
 
@@ -474,11 +473,11 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Smartlike**](https://github.com/smartlike-org/smartlike) ([site](https://smartlike.org/), [Fedi account](https://mastodon.social/@vadim_frolov)): A free non-profit decentralized donation processor with a focus on freedom, privacy and efficiency. `AGPL-3.0, Rust`
 
-* [**Transit Fedilerts**](https://github.com/kona314/transit-fedilerts) ([site])(https://transit.alerts.social/)): ActivityPub-compliant server for distributing transit service alerts. `ISC, Typescript`
+* [**Transit Fedilerts**](https://github.com/kona314/transit-fedilerts) ([site](https://transit.alerts.social/)): ActivityPub-compliant server for distributing transit service alerts. `ISC, Typescript`
 
 * [**Vocata**](https://codeberg.org/Vocata/vocata): A vocabulary-agnostic ActivityPub server. Vocata does not limit what types of content can be handled by it, and how it is presented to users. `LGPL-3.0-or-later, Python`
 
-* :ghost: [**Agora**](https://github.com/scenaristeur/agora): [Home page](https://scenaristeur.github.io/agora),  POC to use ActivityPub on top of the Solid Platform. - developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy). Latest commit - June 2020 
+* :ghost: [**Agora**](https://github.com/scenaristeur/agora): [Home page](https://scenaristeur.github.io/agora),  POC to use ActivityPub on top of the Solid Platform. - developed by [@spoggy@mstdn.fr](https://mstdn.fr/@spoggy). Latest commit - June 2020
 
 * :ghost: [**Indienet**](https://source.ind.ie/indienet) - [homepage](https://web.archive.org/web/20190507034117/https://indienet.info/) - abandoned in favour of [Tincan development](https://small-tech.org/research-and-development)
 

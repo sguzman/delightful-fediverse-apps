@@ -145,8 +145,6 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Rustodon**](https://github.com/rustodon/rustodon): Mastodon-compatible server `AGPL-3.0, Rust`
 
-* [**Scuttlebutt**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks. `Unknown, Unknown`
-
 * [**Seppo**](https://codeberg.org/seppo/seppo) ([site](https://seppo.social), [Fedi account](https://digitalcourage.social/@mro)): A server-side, single-user, Fediverse-integrated microblog engine. Creating static assets published by webserver. `GPL-3.0, OCaml`
 
 * [**Sharkey**](https://git.joinsharkey.org/Sharkey/Sharkey) ([site](https://joinsharkey.org/), [Fedi account](https://transfem.social/@Amelia)): A Sharkish microblogging platform. `AGPL-3.0, Typescript`
@@ -163,7 +161,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Spritely**](https://gitlab.com/spritely) ([site](https://spritely.institute), [Fedi account](https://octodon.social/@spritelyproject)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`
 
-* [**Streams**](https://codeberg.org/streams/streams) ([Fedi account](https://macgirvin.com/channel/mike)): Public domain federated communications server. Provides a feature rich ActivityPub and Nomad communication node. `Public domain and others, PHP`
+* [**Streams**](https://codeberg.org/streams/streams) ([Fedi account](https://fediversity.site/channel/streams)): Public domain federated communications server. Provides a feature rich ActivityPub and Nomad communication node. `Public domain and others, PHP`
 
 * [**Swanye**](https://codeberg.org/WammKD/Swanye) ([Fedi account](https://fosstodon.org/@Swanye)): A tumblelog in the style of Tumblr. `AGPL-3.0, Elixir`
 
@@ -205,7 +203,9 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**ShaarliGo**](https://code.mro.name/mro/ShaarliGo): Self-reliantly posting on the #Fediverse with painless hosting and security in mind. `GPL-3.0, Go`
 
-* :ghost: [**Smilodon**](https://gitlab.com/tuxcrafting/smilodon) (server by Tuxcraft) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer." Sminos appears to have never got beyond the initial commits
+* :ghost: [**Smilodon**](https://gitlab.com/tuxcrafting/smilodon) (server by Tuxcraft) - abandoned by developer "I'm now [working on Sminos](https://gitlab.com/tuxcrafting/sminos/issues/1) and so this will probably be 100% abandoned. There's not much to salvage, its code is cancer." Sminos appears to have never got beyond the initial commits `Unknown, Unknown`
+
+* :ghost: [**ssb ap bridge**](https://github.com/DanielMowitz/ssb_ap_bridge): currently working on a bridge between SSB and AP networks. No updates since 2019 `Unknown, Unknown`
 
 * :ghost: [**Technopolis**](https://github.com/technopolis-microblog) ([site](https://technopolis.app/), [Fedi account](https://norimono.moe/@silverscat_3)): A globally interconnected micro-blogging platform inspired by Misskey - not updated since December 2020 `AGPL-3.0, Rust`
 
@@ -217,7 +217,7 @@ Emoji's for each entry provide additional information on project status:
 
 #### Blog, Publishing, and Reading Apps
 
-* [**Dinolog**](https://github.com/bauripalash/dinolog) ([Fedi account](https://fosstodon.org/@bauripalash)): Utterly simplified and lightweight blogging protocol. (AP support planned. See [toot](https://fosstodon.org/@bauripalash/108440377225675211)) `Unknown, Go`
+* [**Dinolog**](https://github.com/bauripalash/dinolog) ([Fedi account](https://fosstodon.org/@bauripalash)): Utterly simplified and lightweight blogging protocol. (AP support planned. See [toot](https://fosstodon.org/@bauripalash/108440377225675211)) - No updates since 2022 `Unknown, Go`
 
 * [**Dokie.li**](https://github.com/linkeddata/dokieli) ([site](https://dokie.li)): Article authoring and formating `Apache-2.0, JavaScript`
 
@@ -263,7 +263,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**ENiGMA½**](https://github.com/NuSkooler/enigma-bbs): A modern BBS software with a nostalgic flair. (see: [issue](https://github.com/NuSkooler/enigma-bbs/issues/459)) `BSD-2-Clause, Javascript`
 
-* [**Flarum**](https://github.com/squeevee/flarum-ext-feddle): Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361). `Unknown, Unknown`
+* [**Flarum**](https://github.com/squeevee/flarum-ext-feddle): Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361). `MIT, PHP`
 
 * [**Kbin**](https://codeberg.org/Kbin/kbin-core) ([site](https://kbin.pub)): Link aggregator and microblogging platform for Fediverse `AGPL-3.0, PHP`
 
@@ -335,15 +335,15 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Gancio**](https://framagit.org/les/gancio) ([site](https://gancio.org)): Shared agenda for local communities; demo [site](https://demo.gancio.org) `AGPL-3.0, JavaScript`
 
-* [**Gath**](https://github.com/lowercasename/gathio): Public events with no registration required, an instance connected with the friend.camp Mastodon instance is up at: http://events.friend.camp `GPL-3.0, JavaScript`
+* [**Gathio**](https://github.com/lowercasename/gathio) ([site](https://gath.io/)): Public events with no registration required `GPL-3.0, JavaScript`
 
 * [**GetTogether**](https://github.com/GetTogetherComm/GetTogether/issues/60): Still considering adding AP support. `Unknown, Unknown`
 
 * [**Mobilizon**](https://framagit.org/framasoft/mobilizon) ([site](https://joinmobilizon.org/en), [Fedi account](https://framapiaf.org/@mobilizon)): Aims to be more than a Meetup clone `AGPL-3.0, Elixir`
 
-* [**The Occasion Octopus**](https://github.com/theoccasionoctopus/theoccasionoctopus-server) ([site](https://www.theoccasionoctopus.net/), [Fedi account](https://fosstodon.org/@theoccasionoctopus)): A federated network ofOpen Data for discovering interesting events `AGPL-3.0, PHP`
-
 * **Friendica** (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440). `Unknown, Unknown`
+
+* :ghost: [**The Occasion Octopus**](https://github.com/theoccasionoctopus/theoccasionoctopus-server) ([site](https://www.theoccasionoctopus.net/), [Fedi account](https://fosstodon.org/@theoccasionoctopus)): A federated network of Open Data for discovering interesting events; no updates since 2021 `AGPL-3.0, PHP`
 
 * :ghost: [**FedEvent**](https://github.com/shiburizu/fedevent): A prototype for federating event information
 

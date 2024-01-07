@@ -33,15 +33,23 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Activity.next**](https://github.com/llun/activities.next): A single actor ActivityPub server implemented in NextJS. `MIT, TypeScript`
 
+* [**Areionskey**](https://github.com/sakura-tel/areionskey) ([site](https://uma.milkey.homes/), [Fedi account](@areionskey@uma.milkey.homes)): a federated/distributed microblogging platform based on Meisskey v11 `AGPL-3.0, TypeScript`
+
+* [**Ayuskey**](https://github.com/TeamBlackCrystal/ayuskey): A fork of Misskey with more widgets and other design improvements. `AGPL-3.0, TypeScript`
+
 * [**Akkoma**](https://akkoma.dev/AkkomaGang/akkoma) ([site](https://akkoma.social/), [Fedi account](https://ihatebeinga.live/users/akkoma)): A community-driven fork of Pleroma with new features such as support for Misskey-flavored Markdown. `AGPL-3.0, Elixir`
 
 * [**Bonfire Social**](https://github.com/bonfire-networks) ([site](https://bonfirenetworks.org/), [Fedi account](https://indieweb.social/@bonfire)): Your plug & play federated social network. Tend to your digital life in community. `AGPL-3.0, Elixir`
 
 * [**Bugle**](https://github.com/rknightuk/bugle) ([site](https://bugle.lol/), [Fedi account](@bugle@bugle.lol)): A minimal ActivityPub server built with Laravel. `Unknown, PHP`
 
+* [**CherryPick**](https://github.com/kokonect-link/cherrypick) ([site](https://kokonect.link/), [Fedi account](@noridev@kokonect.link)): A Korean fork of Misskey `AGPL-3.0, TypeScript`
+
 * [**Convene**](https://github.com/zinc-collective/convene) ([site](https://convene.zinc.coop/), [Fedi account](https://social.coop/@Zee)): Secure, affordable, private digital spaces for work and play. `PPL-3.0, Ruby`
 
 * [**Decodon**](https://github.com/jesseplusplus/decodon): A fork of Mastodon focusing on followers-only posting of media. Configurable circles to post to. `AGPL-3.0, Ruby`
+
+* [**Ebisskey**](https://github.com/shrimpia/misskey) ([site](https://mk.shrimpia.network), [Fedi account](@Lutica@mk.shrimpia.network)): A fork of Misskey that lets you nickname other users and steal posts. `AGPL-3.0, TypeScript`
 
 * [**Ecko**](https://github.com/magicstone-dev/ecko) ([Fedi account](https://c4.social/@weex)): A fork of Mastodon to optimize toward community, that is making it as easy as possible to contribute. `AGPL-3.0, Ruby`
 
@@ -79,6 +87,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**im@stodon**](https://github.com/imas/mastodon) ([site](https://imastodon.net), [Fedi account](https://imastodon.net/@fusagiko)): A fork of Mastodon. Unlisted posts with tags are published on tags, a list of fav tags, image size restrictions and transcoding `AGPL-3.0, Ruby`
 
+* [**Kakurega**](https://github.com/hideki0403/misskey.yukineko.me/): A fork of Misskey with a distraction free Zen Mode, hideable global timeline, and other QoL improvements `AGPL-3.0, TypeScript`
+
 * [**Kanzaki**](https://github.com/KnzkDev/kanzaki): A Mastodon-compatible, ActivityPub-speaking server in OCaml `AGPL-3.0, OCaml`
 
 * [**Kepi**](https://gitlab.com/marnanel/chapeau) ([Fedi account](https://queer.party/@marnanel)): A Django-based microblogging server, written in Python, which supports the Mastodon protocol. `GPL-2.0, Python`
@@ -96,6 +106,8 @@ Emoji's for each entry provide additional information on project status:
 * [**Kroeg**](https://puckipedia.com/kroeg) ([site](https://puckipedia.com/kroeg)): Generic ActivityPub server, with a focus on microblogging style activities `Unknown , Rust`
 
 * [**lectrn**](https://github.com/lectrn/lectrn) ([site](https://lectrn.com/)): A social network for humans that is free, decentralized, open, and easy to use. `AGPL-3.0, JavaScript`
+
+* [**Leisskey**](https://github.com/Leies-202/misskey) ([site](mk.lei202.com), [Fedi account](@ia@mk.lei202.com)): A fork of Meisskey with an extra Sugar theme and no instance tickers. `AGPL-3.0, TypeScript`
 
 * [**Letterbook**](https://github.com/Letterbook/Letterbook) ([Fedi account](https://hachyderm.io/@jenniferplusplus)): A Mastodon-compatible microblogging server, optimized to reduce administrative costs and burdens. `AGPL-3.0, C#`
 
@@ -118,6 +130,10 @@ Emoji's for each entry provide additional information on project status:
 * [**microstatus**](https://github.com/Arkanosis/microstatus): Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
 
 * [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
+
+* [**Nekomiya-net**](https://github.com/nekomiyanet/misskey-v12) ([site](https://nekomiya.net/): A fork of Misskey focusing on maintainability and behaviour. Has a Cat timeline, fox ears, and Meisskey-like self-destructing notes. `AGPL-3.0, TypeScript`
+
+* [**Nijimiss.moe**](https://github.com/TeamNijimiss/misskey) ([site](https://nijimiss.moe/), [Fedi account](@TeamNijimiss@nijimiss.moe)): A media-focused fork of Misskey, with refinable tag searches `AGPL-3.0, TypeScript`
 
 * [**netop**](https://github.com/what-cheer/netop):  An ActivityPub Server in Scala. `MIT, Scala`
 
@@ -161,11 +177,15 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Spritely**](https://gitlab.com/spritely) ([site](https://spritely.institute), [Fedi account](https://octodon.social/@spritelyproject)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`
 
+* [**Steskey**](https://github.com/Steve-0628/misskey): A fork of Misskey with deeper theming and some [reverts](https://github.com/Steve-0628/misskey/blob/steskey/DIFFERENCE.md) `AGPL-3.0, TypeScript`
+
 * [**Streams**](https://codeberg.org/streams/streams) ([Fedi account](https://fediversity.site/channel/streams)): Public domain federated communications server. Provides a feature rich ActivityPub and Nomad communication node. `Public domain and others, PHP`
 
 * [**Swanye**](https://codeberg.org/WammKD/Swanye) ([Fedi account](https://fosstodon.org/@Swanye)): A tumblelog in the style of Tumblr. `AGPL-3.0, Elixir`
 
 * [**Takahē**](https://github.com/andrewgodwin/takahe) ([site](https://jointakahe.org), [Fedi account](https://jointakahe.takahe.social/@takahe)): An experimental Fediverse server for microblogging `BSD-3-clause, Python`
+
+* [**Tanukey**](https://github.com/tanukey-dev/tanukey): A fork of Misskey for managed environments `AGPL-3.0, TypeScript`
 
 * [**Tapir**](https://github.com/ar-nelson/tapir) ([Fedi account](https://tapir.social/@tapir), [site](https://tapir.social)): A small, efficient Mastodon-compatible Fediverse server for single-user instances. Based on Deno. (Note: [license discussion](https://socialhub.activitypub.rocks/t/hi-everyone/3165/8)) `Blue Oak, TypeScript`
 
@@ -173,11 +193,15 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Tootik**](https://github.com/dimkr/tootik): A federated nanoblogging service with a Gemini frontend. `Apache-2.0, Go`
 
+* [**Type-9ine**](https://github.com/9ineverse-dev/Type-9ine) ([site](9ineverse.com)): A fork of Misskey with some features expanded for 9ineverse.com community needs. `AGPL-3.0, TypeScript`
+
 * [**Vagabond**](https://github.com/CameronWhiteCS/Vagabond) ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
 * [**Wafrn**](https://github.com/gabboman/wafrn): Small Tumbl-inspired social network. `Apache-2.0, TypeScript`
 
 * [**Yarn**](https://git.mills.io/yarnsocial/yarn) ([site](https://yarn.social/)): A decentralised self-hosted microblogging platform that has a privacy-first focus. `AGPL-3.0, Go`
+
+* [**Yoiyami**](https://github.com/rca-fedi/yoiyami): A fork of Misskey which tries to make features opt-out. For example, you can hide custom emoji reactions. `AGPL-3.0, TypeScript`
 
 * :ghost: [**Dolphin**](https://github.com/syuilo/dolphin): Lightweight ActivityPub Server optimized for single-user. A fork and sister project of Misskey `AGPL-3.0, JavaScript`
 

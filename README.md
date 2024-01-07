@@ -31,7 +31,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Aardwolf**](https://github.com/Aardwolf-Social/aardwolf): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
 
-* [**Activity.next**](https://github.com/llun/activities.next): A single actor ActivityPub server implemented in NextJS. `MIT, Typescript`
+* [**Activity.next**](https://github.com/llun/activities.next): A single actor ActivityPub server implemented in NextJS. `MIT, TypeScript`
 
 * [**Akkoma**](https://akkoma.dev/AkkomaGang/akkoma) ([site](https://akkoma.social/), [Fedi account](https://ihatebeinga.live/users/akkoma)): A community-driven fork of Pleroma with new features such as support for Misskey-flavored Markdown. `AGPL-3.0, Elixir`
 
@@ -147,9 +147,9 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Seppo**](https://codeberg.org/seppo/seppo) ([site](https://seppo.social), [Fedi account](https://digitalcourage.social/@mro)): A server-side, single-user, Fediverse-integrated microblog engine. Creating static assets published by webserver. `GPL-3.0, OCaml`
 
-* [**Sharkey**](https://git.joinsharkey.org/Sharkey/Sharkey) ([site](https://joinsharkey.org/), [Fedi account](https://transfem.social/@Amelia)): A Sharkish microblogging platform. `AGPL-3.0, Typescript`
+* [**Sharkey**](https://git.joinsharkey.org/Sharkey/Sharkey) ([site](https://joinsharkey.org/), [Fedi account](https://transfem.social/@Amelia)): A Sharkish microblogging platform. `AGPL-3.0, TypeScript`
 
-* [**Shuttlecraft**](https://github.com/benbrown/shuttlecraft) ([site](https://shuttlecraft.net/), [Fedi account](https://hackers.town/@benbrown)): A single user ActivityPub server to interact with the Fediverse and other indie web protocols like RSS. `MIT, Javascript`
+* [**Shuttlecraft**](https://github.com/benbrown/shuttlecraft) ([site](https://shuttlecraft.net/), [Fedi account](https://hackers.town/@benbrown)): A single user ActivityPub server to interact with the Fediverse and other indie web protocols like RSS. `MIT, JavaScript`
 
 * [**Smalltown**](https://github.com/chandrn7/smalltown): A fork of Mastodon designed for civic communities looking to run their own social networks. `AGPL-3.0, Ruby`
 
@@ -167,7 +167,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Takahē**](https://github.com/andrewgodwin/takahe) ([site](https://jointakahe.org), [Fedi account](https://jointakahe.takahe.social/@takahe)): An experimental Fediverse server for microblogging `BSD-3-clause, Python`
 
-* [**Tapir**](https://github.com/ar-nelson/tapir) ([Fedi account](https://tapir.social/@tapir), [site](https://tapir.social)): A small, efficient Mastodon-compatible Fediverse server for single-user instances. Based on Deno. (Note: [license discussion](https://socialhub.activitypub.rocks/t/hi-everyone/3165/8)) `Blue Oak, Typescript`
+* [**Tapir**](https://github.com/ar-nelson/tapir) ([Fedi account](https://tapir.social/@tapir), [site](https://tapir.social)): A small, efficient Mastodon-compatible Fediverse server for single-user instances. Based on Deno. (Note: [license discussion](https://socialhub.activitypub.rocks/t/hi-everyone/3165/8)) `Blue Oak, TypeScript`
 
 * [**Tavern**](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale) ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `MIT, Go`
 
@@ -175,7 +175,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Vagabond**](https://github.com/CameronWhiteCS/Vagabond) ([site](https://stable.teamvagabond.com/)): A federated social network built with security and privacy in mind. `GPL-3.0, Python`
 
-* [**Wafrn**](https://github.com/gabboman/wafrn): Small Tumbl-inspired social network. `Apache-2.0, Typescript`
+* [**Wafrn**](https://github.com/gabboman/wafrn): Small Tumbl-inspired social network. `Apache-2.0, TypeScript`
 
 * [**Yarn**](https://git.mills.io/yarnsocial/yarn) ([site](https://yarn.social/)): A decentralised self-hosted microblogging platform that has a privacy-first focus. `AGPL-3.0, Go`
 
@@ -233,9 +233,9 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Read.as**](https://github.com/writeas/Read.as) ([site](https://read.as)): Reading app by the devs of WriteFreely `AGPL-3.0, Go`
 
-* [**site**](https://github.com/Lonor/site): Minimalist blog that implements ActivityPub endpoints. `MIT, Javascript`
+* [**site**](https://github.com/Lonor/site): Minimalist blog that implements ActivityPub endpoints. `MIT, JavaScript`
 
-* [**social.distributed.press**](https://github.com/hyphacoop/social.distributed.press): A Social Inbox for Decentralized Publishing and ActivityPub. `AGPL-3.0, Typescript`
+* [**social.distributed.press**](https://github.com/hyphacoop/social.distributed.press): A Social Inbox for Decentralized Publishing and ActivityPub. `AGPL-3.0, TypeScript`
 
 * [**Wordforge**](https://codeberg.org/grafcube/wordforge): Federated creative writing server. Write novels using markdown. `AGPL-3.0, Rust`
 
@@ -261,7 +261,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**brutalinks**](https://github.com/mariusor/go-littr) ([Fedi account](https://metalhead.club/@mariusor)): Link aggregator inspired by Reddit `MIT, Go`
 
-* [**ENiGMA½**](https://github.com/NuSkooler/enigma-bbs): A modern BBS software with a nostalgic flair. (see: [issue](https://github.com/NuSkooler/enigma-bbs/issues/459)) `BSD-2-Clause, Javascript`
+* [**ENiGMA½**](https://github.com/NuSkooler/enigma-bbs): A modern BBS software with a nostalgic flair. (see: [issue](https://github.com/NuSkooler/enigma-bbs/issues/459)) `BSD-2-Clause, JavaScript`
 
 * [**Flarum**](https://github.com/squeevee/flarum-ext-feddle): Experimental plugin for [Flarum](https://flarum.org/) forum software by [@squeevee](https://yiff.life/@squeevee/102496777538790361). `MIT, PHP`
 
@@ -273,9 +273,9 @@ Emoji's for each entry provide additional information on project status:
 
 * [**lotide**](https://git.sr.ht/~vpzom/lotide): A federated forum / link aggregator. `AGPL-3.0, Rust`
 
-* [**MoonTree**](https://github.com/Faleidel/moontreeproject): Link aggregator, a work in progress `MIT, Typescript`
+* [**MoonTree**](https://github.com/Faleidel/moontreeproject): Link aggregator, a work in progress `MIT, TypeScript`
 
-* [**Postmarks**](https://github.com/ckolderup/postmarks) ([site](https://postmarks.glitch.me/)): A single-user bookmarking website designed to live on the Fediverse `MIT, Javascript`
+* [**Postmarks**](https://github.com/ckolderup/postmarks) ([site](https://postmarks.glitch.me/)): A single-user bookmarking website designed to live on the Fediverse `MIT, JavaScript`
 
 * [**Smilodon**](https://source.puri.sm/liberty/host/smilodon): the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`
 
@@ -449,7 +449,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**DiveDB**](https://github.com/cetra3/divedb): Web application that allows Scuba Divers to catalogue and record their dives, dive sites, sealife and photos. ([site](https://divedb.net/)): `AGPL-3.0, Rust`
 
-* [**ENiGMA½ BBS**](https://github.com/NuSkooler/enigma-bbs) ([site](https://nuskooler.github.io/enigma-bbs/)): A modern BBS software with a nostalgic flair! (In progress, see [PR](https://github.com/NuSkooler/enigma-bbs/pull/460)) `BSD-2-Clause, Javascript`
+* [**ENiGMA½ BBS**](https://github.com/NuSkooler/enigma-bbs) ([site](https://nuskooler.github.io/enigma-bbs/)): A modern BBS software with a nostalgic flair! (In progress, see [PR](https://github.com/NuSkooler/enigma-bbs/pull/460)) `BSD-2-Clause, JavaScript`
 
 * [**FairSync**](https://git.fairkom.net/fairsync) ([site](https://fairmove.it/fairsync/)): Develops and collects best practices to synchronize maps and events and to federate messengers and identities. (Funded with NGI0, implementing ActivityStreams, but AP support not clear, currently unlicensed) `Unknown, Java`
 
@@ -473,7 +473,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Smartlike**](https://github.com/smartlike-org/smartlike) ([site](https://smartlike.org/), [Fedi account](https://mastodon.social/@vadim_frolov)): A free non-profit decentralized donation processor with a focus on freedom, privacy and efficiency. `AGPL-3.0, Rust`
 
-* [**Transit Fedilerts**](https://github.com/kona314/transit-fedilerts) ([site](https://transit.alerts.social/)): ActivityPub-compliant server for distributing transit service alerts. `ISC, Typescript`
+* [**Transit Fedilerts**](https://github.com/kona314/transit-fedilerts) ([site](https://transit.alerts.social/)): ActivityPub-compliant server for distributing transit service alerts. `ISC, TypeScript`
 
 * [**Vocata**](https://codeberg.org/Vocata/vocata): A vocabulary-agnostic ActivityPub server. Vocata does not limit what types of content can be handled by it, and how it is presented to users. `LGPL-3.0-or-later, Python`
 

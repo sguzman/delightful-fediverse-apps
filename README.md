@@ -95,8 +95,6 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Kibou**](https://codeberg.org/charlag/kibou): Lightweight social networking server that implements Mastodon's REST API. `AGPL-3.0, Rust`
 
-* [**Kitsune**](https://github.com/valerauko/kitsune): An ActivityPub-speaking microblogging service. `AGPL-3.0, Clojure`
-
 * [**Kitsune**](https://github.com/kitsune-soc/kitsune): ActivityPub-federated microblogging. `MIT, Rust`
 
 * [**kmyblue**](https://github.com/kmycode/mastodon) ([site](https://kmy.blue), [Fedi account](https://kmy.blue/@official)): A fork of Mastodon for creators: emoji reactions, localposting, groups, misskey-like antennas, post self-destruction and more moderation options `AGPL-3.0, Ruby`
@@ -210,6 +208,8 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**GangGo**](https://github.com/ganggo/ganggo/tree/develop)  - Developer has suspended development for the foreseeable future
 
 * :ghost: [**Jejune**](https://github.com/kaniini/jejune) - A work-in-progress ActivityPub server designed to use constructions which provide functional security and resilience `ISC license, Python`
+
+* :ghost: [**Kitsune**](https://github.com/valerauko/kitsune): An ActivityPub-speaking microblogging service. No updates since 2022. `AGPL-3.0, Clojure`
 
 * :ghost: [**Lumen-ap-server**](https://notabug.org/tinyrabbit/lumen-ap-server) ([Fedi account](https://floss.social/@tinyrabbit)): ActivityPub server using Lumen framework `MIT, PHP`
 
@@ -437,7 +437,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Git Social**](https://git.vp.mk/ui/git-social.git/master/about): A federated self-hosted git repository management tool `GPL-3.0, Rust`
 
-* [**Ruisseau**](https://github.com/oknozor/ruisseau): Federated Git platform (still in early stages of development). `-, Rust`
+* [**Gill**](https://github.com/oknozor/gill): a free and open-source git-service based on ActivityPub and ForgeFed. Previously called Ruisseau. `MIT, Rust`
 
 * [**Vervis**](https://vervis.peers.community/repos/WvWbo/source) ([Fedi account](https://todon.nl/@fr33domlover)): Eventually-decentralized project hosting and management platform. Reference implementation for [ForgeFed](https://forgefed.org) protocol extension. `AGPL-3.0, Haskell`
 

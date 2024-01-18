@@ -73,8 +73,6 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Goldfish Social**](https://github.com/Goldfish-Social/Goldfish) ([Fedi account](https://mstdn.social/@stux)): Alternative for Vine / TikTok (alpha). ActivityPub will come later! `AGPL-3.0, PHP`
 
-* [**groundpolis**](https://github.com/xeltica/groundpolis): A microblogging service forked from Misskey `AGPL-3.0, TypeScript`
-
 * [**Glitch-soc**](https://github.com/glitch-soc/mastodon) ([site](https://glitch-soc.github.io/docs), [Fedi account](https://friend.camp/@darius)): A friendly fork of Mastodon, with the aim of providing additional features at the risk of potentially less stable software `AGPL-3.0, Ruby`
 
 * [**GoToSocial**](https://github.com/gotosocial/gotosocial) ([Fedi account](https://ondergrond.org/@dumpsterqueer)): A headless Mastodon-compatible Fediverse server project, written in Golang. `AGPL-3.0, Go`
@@ -128,6 +126,8 @@ Emoji's for each entry provide additional information on project status:
 * [**microblog.pub**](https://git.sr.ht/~tsileo/microblog.pub) ([site](http://docs.microblog.pub)): Self-hosted, single-user, ActivityPub powered microblog. `AGPL-3.0, Python`
 
 * [**microstatus**](https://github.com/Arkanosis/microstatus): Lightweight Mastodon and GNU Social-compatible server implementation `ISC, Rust`
+
+* [**Milkey**](https://github.com/sakura-tel/milkey) ([site](https://milkey.homes), [Fedi account](https://milkey.homes/@Milkey221B)): A beta edition and continuation of Groundpolis `AGPL-3.0, TypeScript`
 
 * [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
 
@@ -212,6 +212,8 @@ Emoji's for each entry provide additional information on project status:
 * :ghost: [**fed**](https://github.com/kissen/fed): Trying to be a basic twitter-like service that works with ActivityPub. Based on [Go-Fed](https://go-fed.org) `GPL-3.0, Go`
 
 * :ghost: [**GangGo**](https://github.com/ganggo/ganggo/tree/develop)  - Developer has suspended development for the foreseeable future
+
+* :ghost: [**groundpolis**](https://github.com/xeltica/groundpolis): A microblogging service forked from Misskey `AGPL-3.0, TypeScript`
 
 * :ghost: [**Jejune**](https://github.com/kaniini/jejune) - A work-in-progress ActivityPub server designed to use constructions which provide functional security and resilience `ISC license, Python`
 

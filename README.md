@@ -43,6 +43,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Bugle**](https://github.com/rknightuk/bugle) ([site](https://bugle.lol/), [Fedi account](@bugle@bugle.lol)): A minimal ActivityPub server built with Laravel. `Unknown, PHP`
 
+* [**Catodon**](https://codeberg.org/catodon/catodon) ([site](https://catodon.social), [Fedi account](@panos@catodon.social)): A platform to build your federated community on. Fork of Firefish `AGPL-3.0, TypeScript`
+
 * [**CherryPick**](https://github.com/kokonect-link/cherrypick) ([site](https://kokonect.link/), [Fedi account](@noridev@kokonect.link)): A Korean fork of Misskey `AGPL-3.0, TypeScript`
 
 * [**Convene**](https://github.com/zinc-collective/convene) ([site](https://convene.zinc.coop/), [Fedi account](https://social.coop/@Zee)): Secure, affordable, private digital spaces for work and play. `PPL-3.0, Ruby`
@@ -129,7 +131,11 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
 
+* [**Misskey.art**](https://github.com/Misskey-art/misskey) ([site](https://misskey.art/)): Fork of Misskey by Misskey.art `AGPL-3.0, TypeScript`
+
 * [**Nekomiya-net**](https://github.com/nekomiyanet/misskey-v12) ([site](https://nekomiya.net/): A fork of Misskey focusing on maintainability and behaviour. Has a Cat timeline, fox ears, and Meisskey-like self-destructing notes. `AGPL-3.0, TypeScript`
+
+* [**nexkey**](https://github.com/nexryai/nexkey): A fork of Misskey 12 optimized for small-to-medium servers. `AGPL-3.0, TypeScript`
 
 * [**Nijimiss.moe**](https://github.com/TeamNijimiss/misskey) ([site](https://nijimiss.moe/), [Fedi account](@TeamNijimiss@nijimiss.moe)): A media-focused fork of Misskey, with refinable tag searches `AGPL-3.0, TypeScript`
 

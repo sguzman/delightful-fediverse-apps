@@ -151,6 +151,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Pothole**](https://gt.tilambda.zone/o/pothole/server.git/about/): A lightweight federated microblogging server, designed to be simple & fast. `AGPL-3.0-or-later, Nim`
 
+* [**Project Gimli**](https://codeberg.org/Laxystem/Gimli/src/branch/laxystem): Federated End-to-End-Encrypted Messaging App & Blogging Platform. `MPL-2.0, Kotlin`
+
 * [**pub**](https://github.com/davecheney/pub) ([Fedi account](https://cheney.net/@dfc)): A tiny ActivityPub host intended for a single actor, that implements Mastodon API for use with various clients. `BSD3-Clause, Go`
 
 * [**Pubblr**](https://github.com/brandonsides/pubblr): A federated blogging platform built on the ActivityPub protocol. `MIT, Go`

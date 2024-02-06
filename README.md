@@ -5,7 +5,7 @@ A curated list of server applications with support for the ActivityPub protocol 
 ## Contents
 
 - [Applications](#applications)
-  - [Social networks, Microblog Apps](#social-networks-microblog-apps)
+  - [Microblogging](#microblogging)
   - [Blog, Publishing, and Reading Apps](#blog-publishing-and-reading-apps)
   - [Link-sharing, Forum, and Group Apps](#link-sharing-forum-and-group-apps)
   - [Media-hosting Apps](#media-hosting-apps)
@@ -27,7 +27,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: == inactive for over a year, or officially abandoned
 
-#### Social networks, Microblog Apps
+#### Microblogging
 
 * [**Aardwolf**](https://github.com/Aardwolf-Social/aardwolf): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
 
@@ -150,8 +150,6 @@ Emoji's for each entry provide additional information on project status:
 * [**Pleroma**](https://git.pleroma.social/pleroma) ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
 * [**Pothole**](https://gt.tilambda.zone/o/pothole/server.git/about/): A lightweight federated microblogging server, designed to be simple & fast. `AGPL-3.0-or-later, Nim`
-
-* [**Project: Gimli**](https://codeberg.org/Laxystem/Gimli/src/branch/laxystem): Federated end-to-end-encrypted guild-based messaging app & blogging platform. `MPL-2.0, Kotlin`
 
 * [**pub**](https://github.com/davecheney/pub) ([Fedi account](https://cheney.net/@dfc)): A tiny ActivityPub host intended for a single actor, that implements Mastodon API for use with various clients. `BSD3-Clause, Go`
 

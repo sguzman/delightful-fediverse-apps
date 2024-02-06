@@ -5,7 +5,7 @@ A curated list of server applications with support for the ActivityPub protocol 
 ## Contents
 
 - [Applications](#applications)
-  - [Social networks, Microblog Apps](#social-networks-microblog-apps)
+  - [Microblogging](#microblogging)
   - [Blog, Publishing, and Reading Apps](#blog-publishing-and-reading-apps)
   - [Link-sharing, Forum, and Group Apps](#link-sharing-forum-and-group-apps)
   - [Media-hosting Apps](#media-hosting-apps)
@@ -27,7 +27,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: == inactive for over a year, or officially abandoned
 
-#### Social networks, Microblog Apps
+#### Microblogging
 
 * [**Aardwolf**](https://github.com/Aardwolf-Social/aardwolf): Facebook-like social network connecting communities across the web `AGPL-3.0, Rust`
 
@@ -151,8 +151,6 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Pothole**](https://gt.tilambda.zone/o/pothole/server.git/about/): A lightweight federated microblogging server, designed to be simple & fast. `AGPL-3.0-or-later, Nim`
 
-* [**Project Gimli**](https://codeberg.org/Laxystem/Gimli/src/branch/laxystem): Federated End-to-End-Encrypted Messaging App & Blogging Platform. `MPL-2.0, Kotlin`
-
 * [**pub**](https://github.com/davecheney/pub) ([Fedi account](https://cheney.net/@dfc)): A tiny ActivityPub host intended for a single actor, that implements Mastodon API for use with various clients. `BSD3-Clause, Go`
 
 * [**Pubblr**](https://github.com/brandonsides/pubblr): A federated blogging platform built on the ActivityPub protocol. `MIT, Go`
@@ -264,6 +262,8 @@ Emoji's for each entry provide additional information on project status:
 * [**Little Library**](https://github.com/Alamantus/little-library): A digital give-a-book, take-a-book library for ebooks. `AGPL-3.0, JavaScript`
 
 * [**Plume**](https://github.com/Plume-org/Plume) ([site](https://joinplu.me)): Blogging application `AGPL-3.0, Rust`
+
+* [**Project: Gimli**](https://codeberg.org/Laxystem/Gimli/src/branch/laxystem): Federated end-to-end-encrypted guild-based messaging app & blogging platform. `MPL-2.0, Kotlin`
 
 * [**Read.as**](https://github.com/writeas/Read.as) ([site](https://read.as)): Reading app by the devs of WriteFreely `AGPL-3.0, Go`
 

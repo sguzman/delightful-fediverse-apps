@@ -6,11 +6,11 @@ A curated list of server applications with support for the ActivityPub protocol 
 
 - [Applications](#applications)
   - [Microblogging](#microblogging)
-  - [Blog, Publishing, and Reading Apps](#blog-publishing-and-reading-apps)
-  - [Link-sharing, Forum, and Group Apps](#link-sharing-forum-and-group-apps)
-  - [Media-hosting Apps](#media-hosting-apps)
+  - [Blogging, Publishing, and Reading](#blogging-publishing-and-reading)
+  - [Link-sharing, Forums, and Groups](#link-sharing-forums-and-groups)
+  - [Media Hosting](#media-hosting)
   - [Events and Meetups](#events-and-meetups)
-  - [Files, Contacts, and Calendar Syncing Apps](#files-contacts-and-calendar-syncing-apps)
+  - [Files, Contacts, and Calendar Syncing](#files-contacts-and-calendar-syncing)
   - [Open data](#open-data)
   - [Reviewing](#reviewing)
   - [Games](#games)
@@ -247,7 +247,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Zap**](https://codeberg.org/zot-archive/zap): A webserver app that supports AP and Zot protocols (EOL, replaced by Streams. See [#20](https://codeberg.org/fediverse/delightful-fediverse-apps/issues/20#issuecomment-749876)) `CC0-like, PHP`
 
-#### Blog, Publishing, and Reading Apps
+#### Blogging, Publishing, and Reading
 
 * [**Dinolog**](https://github.com/bauripalash/dinolog) ([Fedi account](https://fosstodon.org/@bauripalash)): Utterly simplified and lightweight blogging protocol. (AP support planned. See [toot](https://fosstodon.org/@bauripalash/108440377225675211)) - No updates since 2022 `Unknown, Go`
 
@@ -263,7 +263,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Plume**](https://github.com/Plume-org/Plume) ([site](https://joinplu.me)): Blogging application `AGPL-3.0, Rust`
 
-* [**Project: Gimli**](https://codeberg.org/Laxystem/Gimli/src/branch/laxystem): Federated end-to-end-encrypted guild-based messaging app & blogging platform. `MPL-2.0, Kotlin`
+* [**Project: Gimli**](https://codeberg.org/Moria/Gimli): Federated end-to-end-encrypted guild-based messaging app & blogging platform. `MPL-2.0, Kotlin`
 
 * [**Read.as**](https://github.com/writeas/Read.as) ([site](https://read.as)): Reading app by the devs of WriteFreely `AGPL-3.0, Go`
 
@@ -287,7 +287,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Redaktor**](https://redaktor.me): AP-powered CMS; website suspended, no actual code repo
 
-#### Link-sharing, Forum, and Group Apps
+#### Link-sharing, Forums, and Groups
 
 * [**Azorius**](https://humungus.tedunangst.com/r/azorius): A link aggregator and comment site. `ISC, Go`
 
@@ -321,7 +321,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**Prismo**](https://gitlab.com/prismosuite/prismo) ([Fedi account](https://mastodon.social/@prismo)): Link aggregator. Latest update - May 2019. `AGPL-3.0, Ruby`
 
-#### Media-hosting Apps
+#### Media Hosting
 
 * [**Anfora**](https://github.com/anforaProject/anfora) ([site](https://anfora.app)): (formerly Zinat) Image sharing `AGPL-3.0, Python`
 
@@ -381,7 +381,7 @@ Emoji's for each entry provide additional information on project status:
 
 * :ghost: [**FedEvent**](https://github.com/shiburizu/fedevent): A prototype for federating event information
 
-#### Files, Contacts, and Calendar Syncing Apps
+#### Files, Contacts, and Calendar Syncing
 
 * [**Artist Hub**](https://github.com/creative-passport/artist-hub) ([site](https://www.creativepassport.net/)): Part of Creative Passport NGI0-funded project for providing a verified digital ID for Music Makers (very early stage of development) `AGPL-3.0, TypeScript`
 

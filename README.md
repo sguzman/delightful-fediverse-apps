@@ -309,6 +309,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**MoonTree**](https://github.com/Faleidel/moontreeproject): Link aggregator, a work in progress `MIT, TypeScript`
 
+* [**PieFed**](https://codeberg.org/rimu/pyfedi) ([site](https://join.piefed.social/), [Fedi account](https://mastodon.nzoss.nz/@rimu)): A federated forum / link aggregator. `AGPL-3.0, Python`
+
 * [**Postmarks**](https://github.com/ckolderup/postmarks) ([site](https://postmarks.glitch.me/)): A single-user bookmarking website designed to live on the Fediverse `MIT, JavaScript`
 
 * [**Smilodon**](https://source.puri.sm/liberty/host/smilodon): the server by Purism used in LibreOne, not the abandoned Tuxcraft server or Pylodon client; a complementary fork of Mastodon, focusing on opt-in public spaces `AGPL-3.0, Ruby`

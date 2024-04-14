@@ -149,7 +149,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Pleroma**](https://git.pleroma.social/pleroma) ([site](https://pleroma.social)): Microblogging platform `AGPL-3.0, Elixir`
 
-* [**Pothole**](https://gt.tilambda.zone/o/pothole/server.git/about/): A lightweight federated microblogging server, designed to be simple & fast. `AGPL-3.0-or-later, Nim`
+* [**Pothole**](https://github.com/penguinite/pothole): A lightweight federated microblogging server, designed to be simple & fast. `AGPL-3.0-or-later, Nim`
 
 * [**pub**](https://github.com/davecheney/pub) ([Fedi account](https://cheney.net/@dfc)): A tiny ActivityPub host intended for a single actor, that implements Mastodon API for use with various clients. `BSD3-Clause, Go`
 

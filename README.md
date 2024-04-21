@@ -195,6 +195,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Tavern**](https://gitlab.com/ngerakines/tavern/-/tree/release-amber-ale) ([Fedi account](https://mastodon.social/@ngerakines)): A minimalistic Activity Pub server. Think Mastodon, but smaller and with fewer features `MIT, Go`
 
+* [**Toki**](https://github.com/purifetchi/Toki)  ([Fedi account](https://sh.itjust.works/u/prefetcher)) Will support the Mastodon API. `AGPL-3.0, C#`
+
 * [**Tootik**](https://github.com/dimkr/tootik): A federated nanoblogging service with a Gemini frontend. `Apache-2.0, Go`
 
 * [**Type-9ine**](https://github.com/9ineverse-dev/Type-9ine) ([site](9ineverse.com)): A fork of Misskey with some features expanded for 9ineverse.com community needs. `AGPL-3.0, TypeScript`
@@ -523,7 +525,7 @@ Emoji's for each entry provide additional information on project status:
 
 ## Sources
 
-Aside from project homepages and issue trackers, and comments made on the fediverse, the [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hoped would implement ActivityPub and links to issues where it's discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). @Mayel from Social.coop created a [web spreadsheet of AP apps](https://ethercalc.org/fediverse-stacks) and their characteristics. More projects using AP are [profiled on We Distribute](http://wedistribute.org/) by Sean Tilley and his team. There are boards for discussing a range of [AP implementations on the SocialHub forum](https://socialhub.activitypub.rocks/c/software/14). [Alternative.to](https://alternativeto.net/list/5696/activitypub) has a list of AP servers and client apps. The [ActivityPub tag on GH](https://github.com/topics/activitypub) is also a way to discover projects experimenting with AP.
+Aside from project pages and issue trackers, comments made on the fediverse, the [SocialWG has a list](https://www.w3.org/wiki/Socialwg/ActivityPub_network) of projects they hoped would implement ActivityPub and links to issues where it's discussed. Also, there is an [implementation report on ActivityPub.rocks](https://activitypub.rocks/implementation-report/). There are many projects using AP [profiled on We Distribute](http://wedistribute.org/). There are boards for discussing a range of [implementations on the SocialHub forum](https://socialhub.activitypub.rocks/c/software/14). [Alternative.to](https://alternativeto.net/list/5696/activitypub) has a list of servers and client apps. The [ActivityPub tag on Github](https://github.com/topics/activitypub) is also a good way to discover projects experimenting with an implementation.
 
 ## Maintainers
 
@@ -531,10 +533,11 @@ If you have questions or feedback regarding this list, then please create an [Is
 
 - [`@circlebuilder`](https://codeberg.org/circlebuilder)
 - [`@lostinlight`](https://codeberg.org/lostinlight)
+- [`@wakest`](https://codeberg.org/wakest)
 
 ## Contributors
 
-With delight we present you some of our [delightful contributors](delightful-contributors.md) (please [add yourself](https://codeberg.org/teaserbot-labs/delightful/src/branch/main/delight-us.md#attribution-of-contributors) if you are missing).
+With delight we present you some of our [delightful contributors](delightful-contributors.md) (please [add yourself](https://codeberg.org/fediverse/delightful-fediverse-apps/src/branch/main/delightful-contributors.md) if you are missing).
 
 ## License
 

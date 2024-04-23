@@ -255,6 +255,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Ghost**](https://github.com/tryghost/ghost) ([site](https://activitypub.ghost.org)): Independent technology for modern publishing, memberships, subscriptions and newsletters. `MIT, JavaScript`
 
+* [**Gimli**](https://codeberg.org/Laxystem/Gimli/): Federated end-to-end-encrypted guild-based messaging app & blogging platform. `MPL-2.0, Kotlin`
+
 * [**GoBlog**](https://git.jlel.se/jlelse/GoBlog) ([site](https://goblog.app), [Fedi account](https://fosstodon.org/@jle)): Simple blogging system written in Go `MIT, Go`
 
 * [**Hubzilla**](https://framagit.org/hubzilla) ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP`
@@ -264,8 +266,6 @@ Emoji's for each entry provide additional information on project status:
 * [**Little Library**](https://github.com/Alamantus/little-library): A digital give-a-book, take-a-book library for ebooks. `AGPL-3.0, JavaScript`
 
 * [**Plume**](https://github.com/Plume-org/Plume) ([site](https://joinplu.me)): Blogging application `AGPL-3.0, Rust`
-
-* [**Project: Gimli**](https://codeberg.org/Moria/Gimli): Federated end-to-end-encrypted guild-based messaging app & blogging platform. `MPL-2.0, Kotlin`
 
 * [**Read.as**](https://github.com/writeas/Read.as) ([site](https://read.as)): Reading app by the devs of WriteFreely `AGPL-3.0, Go`
 

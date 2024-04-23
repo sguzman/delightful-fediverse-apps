@@ -251,15 +251,15 @@ Emoji's for each entry provide additional information on project status:
 
 #### Blogging, Publishing, and Reading
 
-* [**Dinolog**](https://github.com/bauripalash/dinolog) ([Fedi account](https://fosstodon.org/@bauripalash)): Utterly simplified and lightweight blogging protocol. (AP support planned. See [toot](https://fosstodon.org/@bauripalash/108440377225675211)) - No updates since 2022 `Unknown, Go`
-
 * [**Dokie.li**](https://github.com/linkeddata/dokieli) ([site](https://dokie.li)): Article authoring and formating `Apache-2.0, JavaScript`
 
-* [**GoBlog**](https://git.jlel.se/jlelse/GoBlog) ([site](https://goblog.app/), [Fedi account](https://fosstodon.org/@jle)): Simple blogging system written in Go `MIT, Go`
+* [**Ghost**](https://github.com/tryghost/ghost) ([site](https://activitypub.ghost.org)): Independent technology for modern publishing, memberships, subscriptions and newsletters. `MIT, JavaScript`
+
+* [**GoBlog**](https://git.jlel.se/jlelse/GoBlog) ([site](https://goblog.app), [Fedi account](https://fosstodon.org/@jle)): Simple blogging system written in Go `MIT, Go`
 
 * [**Hubzilla**](https://framagit.org/hubzilla) ([site](https://hubzilla.org)): CMS with a range of groupware tools available as plug-ins `MIT, PHP`
 
-* [**Known**](https://github.com/idno/known) ([site](https://withknown.com/), [Fedi account](https://mastodon.social/@benwerd)): A collaborative social publishing engine (Working on AP support, see [this issue](https://github.com/idno/known/issues/2615)). `Apache-2.0, PHP`
+* [**Known**](https://github.com/idno/known) ([site](https://withknown.com), [Fedi account](https://mastodon.social/@benwerd)): A collaborative social publishing engine (Working on AP support, see [this issue](https://github.com/idno/known/issues/2615)). `Apache-2.0, PHP`
 
 * [**Little Library**](https://github.com/Alamantus/little-library): A digital give-a-book, take-a-book library for ebooks. `AGPL-3.0, JavaScript`
 
@@ -421,9 +421,9 @@ Emoji's for each entry provide additional information on project status:
 
 * [**FediMovies**](https://code.caric.io/FediMovies/fedimovies): Lively federated movies reviews platform. `AGPL-3.0, Rust`
 
-* :ghost: [**exlibris**](https://github.com/exlibris-fed/exlibris): A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)). Latest commit - October 2020 `MIT, Go`
+* [**LibRate**](https://codeberg.org/mjh/LibRate): Libre media rating website. `AGPL-3.0, Go`
 
-* [**LibRate**](https://codeberg.org/mjh/LibRate): Libre media rating website for the Fediverse. `AGPL-3.0, Go`
+* :ghost: [**exlibris**](https://github.com/exlibris-fed/exlibris): A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)). Latest commit - October 2020 `MIT, Go`
 
 * :ghost: [**Readlebee**](https://gitlab.com/Alamantus/Readlebee) ( [Fedi account](https://floss.social/@Readlebee)): An attempt to create a viable Goodreads alternative, book reading progress, lists, reviews, comments (Project looking for new Maintainers) `AGPL-3.0, JavaScript`
 

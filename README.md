@@ -377,7 +377,7 @@ Emoji's for each entry provide additional information on project status:
 
 * [**GetTogether**](https://github.com/GetTogetherComm/GetTogether/issues/60): Still considering adding AP support. `Unknown, Unknown`
 
-* [**Mobilizon**](https://framagit.org/framasoft/mobilizon) ([site](https://joinmobilizon.org/en), [Fedi account](https://framapiaf.org/@mobilizon)): Aims to be more than a Meetup clone `AGPL-3.0, Elixir`
+* [**Mobilizon**](https://framagit.org/framasoft/mobilizon) ([site](https://joinmobilizon.org/en), [Fedi account](https://framapiaf.org/@mobilizon), [Current owners](https://www.kaihuri.org/)): Federated Event planner. `AGPL-3.0, Elixir`
 
 * **Friendica** (see above) has an [events engine that federates events over AP](https://socialhub.activitypub.rocks/t/activitypub-at-36c3-the-decentral-assembly-and-fediverse-party/402/5) and is looking to test interop with other AP events apps. [NextCloud federated events](https://github.com/nextcloud/calendar/pull/878) are in the works but this [may or may not be AP-compatible](https://github.com/nextcloud/server/issues/1440). `Unknown, Unknown`
 

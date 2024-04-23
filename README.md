@@ -177,6 +177,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**snac**](https://codeberg.org/grunfink/snac2) ([Fedi account](https://comam.es/snac/grunfink)): A simple, minimalistic ActivityPub instance with minimal dependencies, multiuser, no database nor cookies needed, totally JavaScript-free `MIT, C`
 
+* [**Soapbox**](https://gitlab.com/soapbox-pub/soapbox) ([site](https://soapbox.pub/), [Fedi account](https://gleasonator.com/users/soapbox)): Social media with a focus on custom branding and ease of use. `AGPL-3.0, Unknown`
+
 * [**Socialhome**](https://gitlab.com/jaywink/socialhome) ([site](https://socialhome.network)): Personal webpage with social networking functionality `AGPL-3.0, Python`
 
 * [**Spritely**](https://gitlab.com/spritely) ([site](https://spritely.institute), [Fedi account](https://octodon.social/@spritelyproject)): Research space for a next-gen distributed social network written in Racket and consisting of multiple projects, by AP specification co-author Christine Lemmer Webber. `Apache-2.0, Racket`

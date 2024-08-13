@@ -85,6 +85,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Iceshrimp**](https://iceshrimp.dev/iceshrimp/iceshrimp): A Misskey fork with a focus on community needs, bugfixes, QoL and performance `AGPL-3.0, TypeScript`
 
+* [**Iceshrimp.NET**](https://iceshrimp.dev/iceshrimp/Iceshrimp.NET) - New code base for Iceshrimp with a focus on performance, stability and maintainability `EUPL-1.2, C#`
+
 * [**illuminant**](https://koldfront.dk/git/illuminant/tree/README.md): An ActivityPub server with an NNTP interface. `GPL-2.0, Haskell`
 
 * [**im@stodon**](https://github.com/imas/mastodon) ([site](https://imastodon.net), [Fedi account](https://imastodon.net/@fusagiko)): A fork of Mastodon. Unlisted posts with tags are published on tags, a list of fav tags, image size restrictions and transcoding `AGPL-3.0, Ruby`
@@ -136,7 +138,6 @@ Emoji's for each entry provide additional information on project status:
 * [**Misskey.art**](https://github.com/Misskey-art/misskey) ([site](https://misskey.art/)): Fork of Misskey by Misskey.art `AGPL-3.0, TypeScript`
 
 * [**Mitra**](https://codeberg.org/silverpill/mitra) ([Fedi account](https://mitra.social/@mitra)): Built on ActivityPub protocol, self-hosted, lightweight `AGPL-3.0, Rust`
-
 
 * [**Nekomiya-net**](https://github.com/nekomiyanet/misskey-v12) ([site](https://nekomiya.net/): A fork of Misskey focusing on maintainability and behaviour. Has a Cat timeline, fox ears, and Meisskey-like self-destructing notes. `AGPL-3.0, TypeScript`
 

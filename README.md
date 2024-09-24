@@ -49,8 +49,6 @@ Emoji's for each entry provide additional information on project status:
 
 * [**Epicyon**](https://gitlab.com/bashrc2/epicyon) ([site](https://libreserver.org/epicyon)): ActivityPub server implementing S2S and C2S protocols, suitable for single board computers. Includes features such as moderation tools, post expiry, content warnings, and image descriptions `AGPL-3.0, Python`
 
-* [**Firefish**](https://git.joinfirefish.org/firefish/firefish) ([site](https://joinfirefish.org/), [Fedi account](https://fedi.software/@firefish)): An actively developed, community-driven fork of Misskey with many quality of life improvements for users and admins alike `AGPL-3.0, TypeScript`
-
 * [**FlockingBird**](https://github.com/flockingbird/roost) ([site](https://search.flockingbird.social), [Fedi account](https://fosstodon.org/@flockingbird)): social network for professionals (WIP)
 
 * [**FoundKey**](https://akkoma.dev/FoundKeyGang/FoundKey): A fork of Misskey with various bugfixes and improvements. `AGPL-3.0, TypeScript`

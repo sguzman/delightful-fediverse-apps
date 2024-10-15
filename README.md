@@ -77,11 +77,15 @@ Emoji's for each entry provide additional information on project status:
 
 * [**GoToSocial**](https://github.com/gotosocial/gotosocial) ([Fedi account](https://ondergrond.org/@dumpsterqueer)): A headless Mastodon-compatible Fediverse server project, written in Golang. `AGPL-3.0, Go`
 
+* [**Hollo**](https://github.com/dahlia/hollo) ([Fedi account](https://hollo.social/@hollo)):- A federated single-user microblogging software powered by Fedify `AGPL-3.0, TypeScript`
+
 * [**Hometown**](https://github.com/hometown-fork/hometown) ([Fedi account](https://friend.camp/@darius)): A fork of Mastodon that provides local posting and a wider range of content types `AGPL-3.0, Ruby`
 
 * [**Honk**](https://humungus.tedunangst.com/r/honk) ([Fedi account](https://honk.tedunangst.com/u/tedu)): ActivityPub server with minimal setup and support costs `ISC, Go`
 
 * [**Iceshrimp**](https://iceshrimp.dev/iceshrimp/iceshrimp): A Misskey fork with a focus on community needs, bugfixes, QoL and performance `AGPL-3.0, TypeScript`
+
+* [**Iceshrimp.NET**](https://iceshrimp.dev/iceshrimp/Iceshrimp.NET) - New code base for Iceshrimp with a focus on performance, stability and maintainability `EUPL-1.2, C#`
 
 * [**illuminant**](https://koldfront.dk/git/illuminant/tree/README.md): An ActivityPub server with an NNTP interface. `GPL-2.0, Haskell`
 
@@ -132,6 +136,8 @@ Emoji's for each entry provide additional information on project status:
 * [**Misskey**](https://github.com/misskey-dev/misskey) ([site](https://misskey-hub.net/en/)): Interplanetary microblogging platform. Provides many additional features like calendar, emoji reactions, polls, games, and many other widgets `AGPL-3.0, JavaScript`
 
 * [**Misskey.art**](https://github.com/Misskey-art/misskey) ([site](https://misskey.art/)): Fork of Misskey by Misskey.art `AGPL-3.0, TypeScript`
+
+* [**Mitra**](https://codeberg.org/silverpill/mitra) ([Fedi account](https://mitra.social/@mitra)): Built on ActivityPub protocol, self-hosted, lightweight `AGPL-3.0, Rust`
 
 * [**Nekomiya-net**](https://github.com/nekomiyanet/misskey-v12) ([site](https://nekomiya.net/): A fork of Misskey focusing on maintainability and behaviour. Has a Cat timeline, fox ears, and Meisskey-like self-destructing notes. `AGPL-3.0, TypeScript`
 

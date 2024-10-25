@@ -431,6 +431,8 @@ Emoji's for each entry provide additional information on project status:
 
 * [**LibRate**](https://codeberg.org/mjh/LibRate): Libre media rating website. `AGPL-3.0, Go`
 
+* [**NeoDB**](https://github.com/neodb-social/neodb) ([site](https://neodb.net), [Fedi account](https://mastodon.social/@neodb)): Self-hosted server that helps users manage, share and discover collections, reviews and ratings for books, movies, music, podcasts, games and performances in Fediverse. `AGPL-3.0, Python`
+
 * :ghost: [**exlibris**](https://github.com/exlibris-fed/exlibris): A social network dedicated to tracking and discussing what you're reading, based on [go-fed](https://go-fed.org) (development stalled, see [this toot](https://mastodon.social/web/statuses/105567590537815892)). Latest commit - October 2020 `MIT, Go`
 
 * :ghost: [**Readlebee**](https://gitlab.com/Alamantus/Readlebee) ( [Fedi account](https://floss.social/@Readlebee)): An attempt to create a viable Goodreads alternative, book reading progress, lists, reviews, comments (Project looking for new Maintainers) `AGPL-3.0, JavaScript`
